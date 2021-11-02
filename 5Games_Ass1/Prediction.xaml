@@ -1,0 +1,70 @@
+﻿<Page
+    x:Class="_5Games_Ass1.Prediction"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:_5Games_Ass1"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid>
+        <MediaElement x:Name="bg_movie" Source="Assets/Media/bg_Predic.wmv" AutoPlay="True" IsLooping="True"/>
+
+        <StackPanel>
+            <Grid Height="642" >
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="0.5*"/>
+                    <ColumnDefinition Width="1*"/>
+                    <ColumnDefinition Width="0.5*"/>
+                    <ColumnDefinition Width="0.5*"/>
+                    <ColumnDefinition Width="1*"/>
+                    <ColumnDefinition Width="1*"/>
+                    <ColumnDefinition Width="0.5*"/>
+                    <ColumnDefinition Width="0.5*"/>
+                    <ColumnDefinition Width="1*"/>
+                    <ColumnDefinition Width="0.5*"/>
+                </Grid.ColumnDefinitions>
+
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="auto" />
+                    <RowDefinition Height="0.5*" />
+                    <RowDefinition Height="0.5*" />
+                    <RowDefinition Height="1" />
+                    <RowDefinition Height="1" />
+                    <RowDefinition Height="1" />
+                    <RowDefinition Height="0.5*" />
+                    <RowDefinition Height="1*" />
+                    <RowDefinition Height="1*" />
+                    <RowDefinition Height="0.5*" />
+                    <RowDefinition Height="0.5*" />
+                    <RowDefinition Height="0.5*" />
+                    <RowDefinition Height="0.5*" />
+                    <RowDefinition Height="1*" />
+                    <RowDefinition Height="1*" />
+                    <RowDefinition Height="0.5*" />
+                </Grid.RowDefinitions>
+
+                <Image x:Name="Teller" Grid.Column="4" Grid.Row="12" Grid.RowSpan="3" Grid.ColumnSpan="2" Stretch="Uniform" Source="Assets/Predic/print.png" />
+
+                <Button x:Name="ButtonPrediction" Content="You wanna know ?" Grid.Column="4" Grid.Row="12" Grid.RowSpan="3" Grid.ColumnSpan="2" HorizontalAlignment="Stretch" VerticalAlignment="Stretch"  Click="ButtonPrediction_Click" FontSize="15" FontFamily="Algerian" Foreground="White" Background="{x:Null}" BorderBrush="{x:Null}" FocusVisualSecondaryBrush="{x:Null}" RequestedTheme="Default" Opacity="0.8" >
+                    <Button.FocusVisualPrimaryBrush>
+                        <ImageBrush ImageSource="/Assets/Predic/print.png" Stretch="UniformToFill"/>
+                    </Button.FocusVisualPrimaryBrush>
+                </Button>
+
+                <MediaElement x:Name="media"  Visibility="Collapsed" />
+                <Image x:Name="Effect1" Grid.ColumnSpan="8" Grid.Column="1" Grid.RowSpan="6" Grid.Row="6" Stretch="UniformToFill" Opacity="0.8" FocusVisualSecondaryBrush="{x:Null}"  />
+                <Image x:Name="Effect" Grid.ColumnSpan="3" Grid.RowSpan="6" Grid.Row="6" Stretch="Uniform" Grid.Column="1"  >
+                    <Image.FocusVisualPrimaryBrush>
+                        <ImageBrush Stretch="Fill" Opacity="0.75"/>
+                    </Image.FocusVisualPrimaryBrush>
+                </Image>
+                <TextBlock x:Name="TextBlockPrediction" Grid.Column="4"  TextWrapping="Wrap" Grid.ColumnSpan="5" Grid.RowSpan="6" FontFamily="Showcard Gothic" FontSize="25" Grid.Row="6" Foreground="White" FocusVisualPrimaryBrush="#99000000" FocusVisualSecondaryBrush="#99FFFFFF" Padding="5,10,5,10" />
+                <TextBlock x:Name="txt_Welcome" Grid.Column="1" Grid.Row="7" TextWrapping="Wrap" Grid.ColumnSpan="8" Grid.RowSpan="5" FontSize="36" FontWeight="Normal" FontFamily="Algerian" TextAlignment="Center" Foreground="White"><Run Text="Do you want to know "/><Run Text="the "/><Run Text="future"/><Run Text="? "/><LineBreak/><Run/><LineBreak/><Run Text="Press butt"/><Run Text="o"/><Run Text="n "/><LineBreak/><Run Text="to check ou"/><Run Text="t"/></TextBlock>
+
+            </Grid>
+        </StackPanel>
+
+    </Grid>
+</Page>

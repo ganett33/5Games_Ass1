@@ -1,0 +1,432 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DESKTOP-CMQG4DH</Machine>
+    <WindowsUser>ganet</WindowsUser>
+    <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
+    <TargetOsVersion>10.0</TargetOsVersion>
+    <TargetOsDescription>Windows 10.0</TargetOsDescription>
+    <SolutionConfiguration>Debug|x86</SolutionConfiguration>
+    <PackageArchitecture>x86</PackageArchitecture>
+    <PackageIdentityName>1b022663-a753-45ca-9747-6659c9fac7d5</PackageIdentityName>
+    <PackageIdentityPublisher>CN=ganet</PackageIdentityPublisher>
+    <IntermediateOutputPath>E:\Ours\Jongbo\LV6 IT\SoftwareDevelopment%28LV6%29\SoftwareDev%28Lv6%29\Semester1\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\obj\x86\Debug\</IntermediateOutputPath>
+    <RemoteDeploymentType></RemoteDeploymentType>
+    <PackageRegistrationPath></PackageRegistrationPath>
+    <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
+    <DeployOptionalPackages>false</DeployOptionalPackages>
+    <WindowsSdkPath>E:\Windows Kits\10\</WindowsSdkPath>
+    <LayoutDir>E:\Ours\Jongbo\LV6 IT\SoftwareDevelopment%28LV6%29\SoftwareDev%28Lv6%29\Semester1\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\bin\x86\Debug\AppX</LayoutDir>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="E:\Ours\Jongbo\LV6 IT\SoftwareDevelopment%28LV6%29\SoftwareDev%28Lv6%29\Semester1\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\bin\x86\Debug\Core\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="E:\Ours\Jongbo\LV6 IT\SoftwareDevelopment%28LV6%29\SoftwareDev%28Lv6%29\Semester1\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\bin\x86\Debug\5Games_Ass1.exe">
+      <PackagePath>entrypoint\5Games_Ass1.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.2.11\runtimes\win10-x86\lib\uap10.0.15138\System.Runtime.dll">
+      <PackagePath>System.Runtime.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Windows Kits\10\bin\10.0.19041.0\XamlCompiler\Microsoft.UI.Xaml.Markup.winmd">
+      <PackagePath>Microsoft.UI.Xaml.Markup.winmd</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Ours\Jongbo\LV6 IT\SoftwareDevelopment%28LV6%29\SoftwareDev%28Lv6%29\Semester1\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\Assets\bg_Dice.jpg">
+      <PackagePath>Assets\bg_Dice.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Ours\Jongbo\LV6 IT\SoftwareDevelopment%28LV6%29\SoftwareDev%28Lv6%29\Semester1\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\Assets\bg_Drinks.jpg">
+      <PackagePath>Assets\bg_Drinks.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Ours\Jongbo\LV6 IT\SoftwareDevelopment%28LV6%29\SoftwareDev%28Lv6%29\Semester1\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\Assets\bg_Lotto.jpg">
+      <PackagePath>Assets\bg_Lotto.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Ours\Jongbo\LV6 IT\SoftwareDevelopment%28LV6%29\SoftwareDev%28Lv6%29\Semester1\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\Assets\bg_predic_1.jpg">
+      <PackagePath>Assets\bg_predic_1.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Ours\Jongbo\LV6 IT\SoftwareDevelopment%28LV6%29\SoftwareDev%28Lv6%29\Semester1\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\Assets\bg_Slot.jpg">
+      <PackagePath>Assets\bg_Slot.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Ours\Jongbo\LV6 IT\SoftwareDevelopment%28LV6%29\SoftwareDev%28Lv6%29\Semester1\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\Assets\Slot\bg_slot2.jpg">
+      <PackagePath>Assets\Slot\bg_slot2.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Ours\Jongbo\LV6 IT\SoftwareDevelopment%28LV6%29\SoftwareDev%28Lv6%29\Semester1\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\Assets\Slot\bg_slot5.jpg">
+      <PackagePath>Assets\Slot\bg_slot5.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Ours\Jongbo\LV6 IT\SoftwareDevelopment%28LV6%29\SoftwareDev%28Lv6%29\Semester1\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\Assets\Slot\lose_Game.jpg">
+      <PackagePath>Assets\Slot\lose_Game.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Ours\Jongbo\LV6 IT\SoftwareDevelopment%28LV6%29\SoftwareDev%28Lv6%29\Semester1\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\Assets\Slot\win_Game.jpg">
+      <PackagePath>Assets\Slot\win_Game.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Ours\Jongbo\LV6 IT\SoftwareDevelopment%28LV6%29\SoftwareDev%28Lv6%29\Semester1\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\Assets\Slot\LoseGame.jpg">
+      <PackagePath>Assets\Slot\LoseGame.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Ours\Jongbo\LV6 IT\SoftwareDevelopment%28LV6%29\SoftwareDev%28Lv6%29\Semester1\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\Assets\tauranga.jpg">
+      <PackagePath>Assets\tauranga.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Ours\Jongbo\LV6 IT\SoftwareDevelopment%28LV6%29\SoftwareDev%28Lv6%29\Semester1\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\Assets\bg_Main_3.gif">
+      <PackagePath>Assets\bg_Main_3.gif</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Ours\Jongbo\LV6 IT\SoftwareDevelopment%28LV6%29\SoftwareDev%28Lv6%29\Semester1\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\Assets\Dice\tenor.gif">
+      <PackagePath>Assets\Dice\tenor.gif</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Ours\Jongbo\LV6 IT\SoftwareDevelopment%28LV6%29\SoftwareDev%28Lv6%29\Semester1\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\Assets\Lotto\LottoEffect.gif">
+      <PackagePath>Assets\Lotto\LottoEffect.gif</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Ours\Jongbo\LV6 IT\SoftwareDevelopment%28LV6%29\SoftwareDev%28Lv6%29\Semester1\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\Assets\Slot\Spining.gif">
+      <PackagePath>Assets\Slot\Spining.gif</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Ours\Jongbo\LV6 IT\SoftwareDevelopment%28LV6%29\SoftwareDev%28Lv6%29\Semester1\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\Assets\Slot\img_slot_godzilla.gif">
+      <PackagePath>Assets\Slot\img_slot_godzilla.gif</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Ours\Jongbo\LV6 IT\SoftwareDevelopment%28LV6%29\SoftwareDev%28Lv6%29\Semester1\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\Assets\Slot\img_Welcom.gif">
+      <PackagePath>Assets\Slot\img_Welcom.gif</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Ours\Jongbo\LV6 IT\SoftwareDevelopment%28LV6%29\SoftwareDev%28Lv6%29\Semester1\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\Assets\Slot\WinGame.gif">
+      <PackagePath>Assets\Slot\WinGame.gif</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Ours\Jongbo\LV6 IT\SoftwareDevelopment%28LV6%29\SoftwareDev%28Lv6%29\Semester1\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\Assets\Media\bg_Predic.wmv">
+      <PackagePath>Assets\Media\bg_Predic.wmv</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Ours\Jongbo\LV6 IT\SoftwareDevelopment%28LV6%29\SoftwareDev%28Lv6%29\Semester1\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\Assets\Media\Gameover.mp3">
+      <PackagePath>Assets\Media\Gameover.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Ours\Jongbo\LV6 IT\SoftwareDevelopment%28LV6%29\SoftwareDev%28Lv6%29\Semester1\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\Assets\Media\Good Luck.mp3">
+      <PackagePath>Assets\Media\Good Luck.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Ours\Jongbo\LV6 IT\SoftwareDevelopment%28LV6%29\SoftwareDev%28Lv6%29\Semester1\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\Assets\Media\Jackpot.mp3">
+      <PackagePath>Assets\Media\Jackpot.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Ours\Jongbo\LV6 IT\SoftwareDevelopment%28LV6%29\SoftwareDev%28Lv6%29\Semester1\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\Assets\Media\main_bg.mp3">
+      <PackagePath>Assets\Media\main_bg.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Ours\Jongbo\LV6 IT\SoftwareDevelopment%28LV6%29\SoftwareDev%28Lv6%29\Semester1\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\Assets\Media\Rolling Dice.mp3">
+      <PackagePath>Assets\Media\Rolling Dice.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Ours\Jongbo\LV6 IT\SoftwareDevelopment%28LV6%29\SoftwareDev%28Lv6%29\Semester1\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\Assets\Media\Spin.mp3">
+      <PackagePath>Assets\Media\Spin.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Ours\Jongbo\LV6 IT\SoftwareDevelopment%28LV6%29\SoftwareDev%28Lv6%29\Semester1\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\Assets\Media\Stop.mp3">
+      <PackagePath>Assets\Media\Stop.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Ours\Jongbo\LV6 IT\SoftwareDevelopment%28LV6%29\SoftwareDev%28Lv6%29\Semester1\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\Assets\Media\Coin.mp3">
+      <PackagePath>Assets\Media\Coin.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Ours\Jongbo\LV6 IT\SoftwareDevelopment%28LV6%29\SoftwareDev%28Lv6%29\Semester1\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\Assets\Predic\blank.png">
+      <PackagePath>Assets\Predic\blank.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Ours\Jongbo\LV6 IT\SoftwareDevelopment%28LV6%29\SoftwareDev%28Lv6%29\Semester1\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\Assets\Dice\five.png">
+      <PackagePath>Assets\Dice\five.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Ours\Jongbo\LV6 IT\SoftwareDevelopment%28LV6%29\SoftwareDev%28Lv6%29\Semester1\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\Assets\Dice\four.png">
+      <PackagePath>Assets\Dice\four.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Ours\Jongbo\LV6 IT\SoftwareDevelopment%28LV6%29\SoftwareDev%28Lv6%29\Semester1\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\Assets\Dice\one.png">
+      <PackagePath>Assets\Dice\one.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Ours\Jongbo\LV6 IT\SoftwareDevelopment%28LV6%29\SoftwareDev%28Lv6%29\Semester1\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\Assets\Dice\six.png">
+      <PackagePath>Assets\Dice\six.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Ours\Jongbo\LV6 IT\SoftwareDevelopment%28LV6%29\SoftwareDev%28Lv6%29\Semester1\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\Assets\Dice\three.png">
+      <PackagePath>Assets\Dice\three.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Ours\Jongbo\LV6 IT\SoftwareDevelopment%28LV6%29\SoftwareDev%28Lv6%29\Semester1\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\Assets\Dice\two.png">
+      <PackagePath>Assets\Dice\two.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Ours\Jongbo\LV6 IT\SoftwareDevelopment%28LV6%29\SoftwareDev%28Lv6%29\Semester1\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\Assets\Drinks\Cosmopolitan.png">
+      <PackagePath>Assets\Drinks\Cosmopolitan.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Ours\Jongbo\LV6 IT\SoftwareDevelopment%28LV6%29\SoftwareDev%28Lv6%29\Semester1\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\Assets\Drinks\Daiquiri.png">
+      <PackagePath>Assets\Drinks\Daiquiri.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Ours\Jongbo\LV6 IT\SoftwareDevelopment%28LV6%29\SoftwareDev%28Lv6%29\Semester1\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\Assets\Drinks\Dark n Stormy.png">
+      <PackagePath>Assets\Drinks\Dark n Stormy.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Ours\Jongbo\LV6 IT\SoftwareDevelopment%28LV6%29\SoftwareDev%28Lv6%29\Semester1\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\Assets\Drinks\Empty Glass.png">
+      <PackagePath>Assets\Drinks\Empty Glass.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Ours\Jongbo\LV6 IT\SoftwareDevelopment%28LV6%29\SoftwareDev%28Lv6%29\Semester1\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\Assets\Drinks\French 75.png">
+      <PackagePath>Assets\Drinks\French 75.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Ours\Jongbo\LV6 IT\SoftwareDevelopment%28LV6%29\SoftwareDev%28Lv6%29\Semester1\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\Assets\Drinks\Gimlet.png">
+      <PackagePath>Assets\Drinks\Gimlet.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Ours\Jongbo\LV6 IT\SoftwareDevelopment%28LV6%29\SoftwareDev%28Lv6%29\Semester1\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\Assets\Drinks\Manhattan.png">
+      <PackagePath>Assets\Drinks\Manhattan.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Ours\Jongbo\LV6 IT\SoftwareDevelopment%28LV6%29\SoftwareDev%28Lv6%29\Semester1\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\Assets\Drinks\Margarita.png">
+      <PackagePath>Assets\Drinks\Margarita.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Ours\Jongbo\LV6 IT\SoftwareDevelopment%28LV6%29\SoftwareDev%28Lv6%29\Semester1\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\Assets\Drinks\Martinez.png">
+      <PackagePath>Assets\Drinks\Martinez.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Ours\Jongbo\LV6 IT\SoftwareDevelopment%28LV6%29\SoftwareDev%28Lv6%29\Semester1\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\Assets\Drinks\Martini.png">
+      <PackagePath>Assets\Drinks\Martini.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Ours\Jongbo\LV6 IT\SoftwareDevelopment%28LV6%29\SoftwareDev%28Lv6%29\Semester1\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\Assets\Drinks\Mimosa.png">
+      <PackagePath>Assets\Drinks\Mimosa.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Ours\Jongbo\LV6 IT\SoftwareDevelopment%28LV6%29\SoftwareDev%28Lv6%29\Semester1\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\Assets\Drinks\Mint Julep.png">
+      <PackagePath>Assets\Drinks\Mint Julep.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Ours\Jongbo\LV6 IT\SoftwareDevelopment%28LV6%29\SoftwareDev%28Lv6%29\Semester1\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\Assets\Drinks\Mojito.png">
+      <PackagePath>Assets\Drinks\Mojito.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Ours\Jongbo\LV6 IT\SoftwareDevelopment%28LV6%29\SoftwareDev%28Lv6%29\Semester1\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\Assets\Drinks\Moscow Mule.png">
+      <PackagePath>Assets\Drinks\Moscow Mule.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Ours\Jongbo\LV6 IT\SoftwareDevelopment%28LV6%29\SoftwareDev%28Lv6%29\Semester1\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\Assets\Drinks\Negroni.png">
+      <PackagePath>Assets\Drinks\Negroni.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Ours\Jongbo\LV6 IT\SoftwareDevelopment%28LV6%29\SoftwareDev%28Lv6%29\Semester1\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\Assets\Drinks\Old Fashioned.png">
+      <PackagePath>Assets\Drinks\Old Fashioned.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Ours\Jongbo\LV6 IT\SoftwareDevelopment%28LV6%29\SoftwareDev%28Lv6%29\Semester1\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\Assets\Drinks\Paloma.png">
+      <PackagePath>Assets\Drinks\Paloma.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Ours\Jongbo\LV6 IT\SoftwareDevelopment%28LV6%29\SoftwareDev%28Lv6%29\Semester1\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\Assets\Drinks\Pimms Cup.png">
+      <PackagePath>Assets\Drinks\Pimms Cup.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Ours\Jongbo\LV6 IT\SoftwareDevelopment%28LV6%29\SoftwareDev%28Lv6%29\Semester1\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\Assets\Drinks\Pina Colada.png">
+      <PackagePath>Assets\Drinks\Pina Colada.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Ours\Jongbo\LV6 IT\SoftwareDevelopment%28LV6%29\SoftwareDev%28Lv6%29\Semester1\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\Assets\Drinks\Sazerac.png">
+      <PackagePath>Assets\Drinks\Sazerac.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Ours\Jongbo\LV6 IT\SoftwareDevelopment%28LV6%29\SoftwareDev%28Lv6%29\Semester1\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\Assets\Drinks\Sidecar.png">
+      <PackagePath>Assets\Drinks\Sidecar.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Ours\Jongbo\LV6 IT\SoftwareDevelopment%28LV6%29\SoftwareDev%28Lv6%29\Semester1\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\Assets\Drinks\Singapore Sling.png">
+      <PackagePath>Assets\Drinks\Singapore Sling.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Ours\Jongbo\LV6 IT\SoftwareDevelopment%28LV6%29\SoftwareDev%28Lv6%29\Semester1\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\Assets\Drinks\Surfer Girl.png">
+      <PackagePath>Assets\Drinks\Surfer Girl.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Ours\Jongbo\LV6 IT\SoftwareDevelopment%28LV6%29\SoftwareDev%28Lv6%29\Semester1\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\Assets\Drinks\Whiskey Sour.png">
+      <PackagePath>Assets\Drinks\Whiskey Sour.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Ours\Jongbo\LV6 IT\SoftwareDevelopment%28LV6%29\SoftwareDev%28Lv6%29\Semester1\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\Assets\logoOut.png">
+      <PackagePath>Assets\logoOut.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Ours\Jongbo\LV6 IT\SoftwareDevelopment%28LV6%29\SoftwareDev%28Lv6%29\Semester1\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\Assets\Predic\hand.png">
+      <PackagePath>Assets\Predic\hand.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Ours\Jongbo\LV6 IT\SoftwareDevelopment%28LV6%29\SoftwareDev%28Lv6%29\Semester1\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\Assets\Predic\print.png">
+      <PackagePath>Assets\Predic\print.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Ours\Jongbo\LV6 IT\SoftwareDevelopment%28LV6%29\SoftwareDev%28Lv6%29\Semester1\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\Assets\Slot\img_Apple_Slot.png">
+      <PackagePath>Assets\Slot\img_Apple_Slot.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Ours\Jongbo\LV6 IT\SoftwareDevelopment%28LV6%29\SoftwareDev%28Lv6%29\Semester1\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\Assets\Slot\img_Cherry_Slot.png">
+      <PackagePath>Assets\Slot\img_Cherry_Slot.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Ours\Jongbo\LV6 IT\SoftwareDevelopment%28LV6%29\SoftwareDev%28Lv6%29\Semester1\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\Assets\Slot\img_Gem_Slot.png">
+      <PackagePath>Assets\Slot\img_Gem_Slot.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Ours\Jongbo\LV6 IT\SoftwareDevelopment%28LV6%29\SoftwareDev%28Lv6%29\Semester1\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\Assets\Slot\img_Heart_Slot.png">
+      <PackagePath>Assets\Slot\img_Heart_Slot.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Ours\Jongbo\LV6 IT\SoftwareDevelopment%28LV6%29\SoftwareDev%28Lv6%29\Semester1\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\Assets\Slot\lose.png">
+      <PackagePath>Assets\Slot\lose.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Ours\Jongbo\LV6 IT\SoftwareDevelopment%28LV6%29\SoftwareDev%28Lv6%29\Semester1\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\Assets\Slot\win.png">
+      <PackagePath>Assets\Slot\win.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Ours\Jongbo\LV6 IT\SoftwareDevelopment%28LV6%29\SoftwareDev%28Lv6%29\Semester1\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\Assets\Slot\slot.png">
+      <PackagePath>Assets\Slot\slot.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Ours\Jongbo\LV6 IT\SoftwareDevelopment%28LV6%29\SoftwareDev%28Lv6%29\Semester1\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\Assets\LockScreenLogo.scale-200.png">
+      <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Ours\Jongbo\LV6 IT\SoftwareDevelopment%28LV6%29\SoftwareDev%28Lv6%29\Semester1\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\Assets\SplashScreen.scale-200.png">
+      <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Ours\Jongbo\LV6 IT\SoftwareDevelopment%28LV6%29\SoftwareDev%28Lv6%29\Semester1\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\Assets\Square150x150Logo.scale-200.png">
+      <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Ours\Jongbo\LV6 IT\SoftwareDevelopment%28LV6%29\SoftwareDev%28Lv6%29\Semester1\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\Assets\Square44x44Logo.scale-200.png">
+      <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Ours\Jongbo\LV6 IT\SoftwareDevelopment%28LV6%29\SoftwareDev%28Lv6%29\Semester1\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Ours\Jongbo\LV6 IT\SoftwareDevelopment%28LV6%29\SoftwareDev%28Lv6%29\Semester1\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Ours\Jongbo\LV6 IT\SoftwareDevelopment%28LV6%29\SoftwareDev%28Lv6%29\Semester1\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\Assets\Wide310x150Logo.scale-200.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Ours\Jongbo\LV6 IT\SoftwareDevelopment%28LV6%29\SoftwareDev%28Lv6%29\Semester1\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\Assets\Icon\dice_normal.svg">
+      <PackagePath>Assets\Icon\dice_normal.svg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Ours\Jongbo\LV6 IT\SoftwareDevelopment%28LV6%29\SoftwareDev%28Lv6%29\Semester1\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\Assets\Icon\dice_select.svg">
+      <PackagePath>Assets\Icon\dice_select.svg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Ours\Jongbo\LV6 IT\SoftwareDevelopment%28LV6%29\SoftwareDev%28Lv6%29\Semester1\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\Assets\Icon\drink_normal.svg">
+      <PackagePath>Assets\Icon\drink_normal.svg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Ours\Jongbo\LV6 IT\SoftwareDevelopment%28LV6%29\SoftwareDev%28Lv6%29\Semester1\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\Assets\Icon\drink_select.svg">
+      <PackagePath>Assets\Icon\drink_select.svg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Ours\Jongbo\LV6 IT\SoftwareDevelopment%28LV6%29\SoftwareDev%28Lv6%29\Semester1\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\Assets\Icon\lotto.svg">
+      <PackagePath>Assets\Icon\lotto.svg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Ours\Jongbo\LV6 IT\SoftwareDevelopment%28LV6%29\SoftwareDev%28Lv6%29\Semester1\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\Assets\Icon\lotto_normal.svg">
+      <PackagePath>Assets\Icon\lotto_normal.svg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Ours\Jongbo\LV6 IT\SoftwareDevelopment%28LV6%29\SoftwareDev%28Lv6%29\Semester1\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\Assets\Icon\lotto_select.svg">
+      <PackagePath>Assets\Icon\lotto_select.svg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Ours\Jongbo\LV6 IT\SoftwareDevelopment%28LV6%29\SoftwareDev%28Lv6%29\Semester1\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\Assets\Icon\main_normal.svg">
+      <PackagePath>Assets\Icon\main_normal.svg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Ours\Jongbo\LV6 IT\SoftwareDevelopment%28LV6%29\SoftwareDev%28Lv6%29\Semester1\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\Assets\Icon\main_select.svg">
+      <PackagePath>Assets\Icon\main_select.svg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Ours\Jongbo\LV6 IT\SoftwareDevelopment%28LV6%29\SoftwareDev%28Lv6%29\Semester1\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\Assets\Icon\predic_normal.svg">
+      <PackagePath>Assets\Icon\predic_normal.svg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Ours\Jongbo\LV6 IT\SoftwareDevelopment%28LV6%29\SoftwareDev%28Lv6%29\Semester1\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\Assets\Icon\predic_select.svg">
+      <PackagePath>Assets\Icon\predic_select.svg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Ours\Jongbo\LV6 IT\SoftwareDevelopment%28LV6%29\SoftwareDev%28Lv6%29\Semester1\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\Assets\Icon\slot-machine.svg">
+      <PackagePath>Assets\Icon\slot-machine.svg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Ours\Jongbo\LV6 IT\SoftwareDevelopment%28LV6%29\SoftwareDev%28Lv6%29\Semester1\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\Assets\Icon\slot_normal.svg">
+      <PackagePath>Assets\Icon\slot_normal.svg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Ours\Jongbo\LV6 IT\SoftwareDevelopment%28LV6%29\SoftwareDev%28Lv6%29\Semester1\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\Assets\Icon\slot_select.svg">
+      <PackagePath>Assets\Icon\slot_select.svg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Ours\Jongbo\LV6 IT\SoftwareDevelopment%28LV6%29\SoftwareDev%28Lv6%29\Semester1\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\Properties\Default.rd.xml">
+      <PackagePath>Properties\Default.rd.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Ours\Jongbo\LV6 IT\SoftwareDevelopment%28LV6%29\SoftwareDev%28Lv6%29\Semester1\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\bin\x86\Debug\5Games_Ass1.xr.xml">
+      <PackagePath>5Games_Ass1.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Ours\Jongbo\LV6 IT\SoftwareDevelopment%28LV6%29\SoftwareDev%28Lv6%29\Semester1\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\bin\x86\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Ours\Jongbo\LV6 IT\SoftwareDevelopment%28LV6%29\SoftwareDev%28Lv6%29\Semester1\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\bin\x86\Debug\Dice.xbf">
+      <PackagePath>Dice.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Ours\Jongbo\LV6 IT\SoftwareDevelopment%28LV6%29\SoftwareDev%28Lv6%29\Semester1\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\bin\x86\Debug\Drinks.xbf">
+      <PackagePath>Drinks.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Ours\Jongbo\LV6 IT\SoftwareDevelopment%28LV6%29\SoftwareDev%28Lv6%29\Semester1\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\bin\x86\Debug\Lotto.xbf">
+      <PackagePath>Lotto.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Ours\Jongbo\LV6 IT\SoftwareDevelopment%28LV6%29\SoftwareDev%28Lv6%29\Semester1\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\bin\x86\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Ours\Jongbo\LV6 IT\SoftwareDevelopment%28LV6%29\SoftwareDev%28Lv6%29\Semester1\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\bin\x86\Debug\Map.xbf">
+      <PackagePath>Map.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Ours\Jongbo\LV6 IT\SoftwareDevelopment%28LV6%29\SoftwareDev%28Lv6%29\Semester1\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\bin\x86\Debug\Prediction.xbf">
+      <PackagePath>Prediction.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Ours\Jongbo\LV6 IT\SoftwareDevelopment%28LV6%29\SoftwareDev%28Lv6%29\Semester1\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\bin\x86\Debug\Slot.xbf">
+      <PackagePath>Slot.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Windows Kits\10\UnionMetadata\10.0.19041.0\Windows.winmd">
+      <PackagePath>WinMetadata\Windows.winmd</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Ours\Jongbo\LV6 IT\SoftwareDevelopment%28LV6%29\SoftwareDev%28Lv6%29\Semester1\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\bin\x86\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Ours\Jongbo\LV6 IT\SoftwareDevelopment%28LV6%29\SoftwareDev%28Lv6%29\Semester1\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\bin\x86\Debug\Core\5Games_Ass1.exe">
+      <PackagePath>5Games_Ass1.exe</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x86.microsoft.net.uwpcoreruntimesdk\2.2.11\build\..\tools\Appx\Microsoft.NET.CoreRuntime.2.2.appx">
+      <Name>Microsoft.NET.CoreRuntime.2.2</Name>
+      <Version>2.2.27902.3</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.CoreRuntime.2.2, MinVersion = 2.2.27902.3, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x86.microsoft.net.uwpcoreruntimesdk\2.2.11\build\..\tools\Appx\Microsoft.NET.CoreRuntime.2.2.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x64.microsoft.net.uwpcoreruntimesdk\2.2.11\build\..\tools\Appx\Microsoft.NET.CoreRuntime.2.2.appx">
+      <Name>Microsoft.NET.CoreRuntime.2.2</Name>
+      <Version>2.2.27902.3</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.CoreRuntime.2.2, MinVersion = 2.2.27902.3, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x64.microsoft.net.uwpcoreruntimesdk\2.2.11\build\..\tools\Appx\Microsoft.NET.CoreRuntime.2.2.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-arm.microsoft.net.uwpcoreruntimesdk\2.2.11\build\..\tools\Appx\Microsoft.NET.CoreRuntime.2.2.appx">
+      <Name>Microsoft.NET.CoreRuntime.2.2</Name>
+      <Version>2.2.27902.3</Version>
+      <Architecture>arm</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.CoreRuntime.2.2, MinVersion = 2.2.27902.3, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-arm.microsoft.net.uwpcoreruntimesdk\2.2.11\build\..\tools\Appx\Microsoft.NET.CoreRuntime.2.2.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x86.microsoft.net.uwpcoreruntimesdk\2.2.11\build\..\tools\Appx\Microsoft.NET.CoreFramework.Debug.2.2.appx">
+      <Name>Microsoft.NET.CoreFramework.Debug.2.2</Name>
+      <Version>2.2.29301.2</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.CoreFramework.Debug.2.2, MinVersion = 2.2.29301.2, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x86.microsoft.net.uwpcoreruntimesdk\2.2.11\build\..\tools\Appx\Microsoft.NET.CoreFramework.Debug.2.2.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x64.microsoft.net.uwpcoreruntimesdk\2.2.11\build\..\tools\Appx\Microsoft.NET.CoreFramework.Debug.2.2.appx">
+      <Name>Microsoft.NET.CoreFramework.Debug.2.2</Name>
+      <Version>2.2.29301.2</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.CoreFramework.Debug.2.2, MinVersion = 2.2.29301.2, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x64.microsoft.net.uwpcoreruntimesdk\2.2.11\build\..\tools\Appx\Microsoft.NET.CoreFramework.Debug.2.2.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-arm.microsoft.net.uwpcoreruntimesdk\2.2.11\build\..\tools\Appx\Microsoft.NET.CoreFramework.Debug.2.2.appx">
+      <Name>Microsoft.NET.CoreFramework.Debug.2.2</Name>
+      <Version>2.2.29301.2</Version>
+      <Architecture>arm</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.CoreFramework.Debug.2.2, MinVersion = 2.2.29301.2, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-arm.microsoft.net.uwpcoreruntimesdk\2.2.11\build\..\tools\Appx\Microsoft.NET.CoreFramework.Debug.2.2.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug</Name>
+      <Version>14.0.29231.0</Version>
+      <Architecture>ARM</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.29231.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\ARM\Microsoft.VCLibs.ARM.Debug.14.00.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug</Name>
+      <Version>14.0.29231.0</Version>
+      <Architecture>ARM64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.29231.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\ARM64\Microsoft.VCLibs.ARM64.Debug.14.00.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug</Name>
+      <Version>14.0.29231.0</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.29231.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\x64\Microsoft.VCLibs.x64.Debug.14.00.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug</Name>
+      <Version>14.0.29231.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.29231.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\x86\Microsoft.VCLibs.x86.Debug.14.00.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>

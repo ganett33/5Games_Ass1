@@ -1,0 +1,56 @@
+﻿<Page
+    x:Class="_5Games_Ass1.Map"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:_5Games_Ass1"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    xmlns:maps="using:Windows.UI.Xaml.Controls.Maps"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid>
+
+        <StackPanel>
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="1*"/>
+                    <ColumnDefinition Width="1*"/>
+                    <ColumnDefinition Width="1*"/>
+                    <ColumnDefinition Width="1*"/>
+                </Grid.ColumnDefinitions>
+
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="auto" />
+                    <RowDefinition Height="*" />
+                    <RowDefinition Height="*" />
+                </Grid.RowDefinitions>
+
+
+
+            </Grid>
+            <StackPanel x:ConnectionId='3' x:Name="SearchControls"
+                        Orientation="Horizontal">
+                <CheckBox x:ConnectionId='5' x:Name="TrafficCheckBox"
+                          Content="Show traffic"
+                          Width="100"
+                          Height="35"
+                          Margin="15,35,15,15"
+                                                           
+                                                                Foreground="Black" FontFamily="Microsoft YaHei" FontWeight="Bold" Background="{x:Null}" FocusVisualPrimaryBrush="#FFEC831B" />
+                <Button x:ConnectionId='6' x:Name="btn_Mapstyle"
+                        Content="Aerial"
+                        Width="100"
+                        Height="35"
+                        Margin="-10,0,0,-20"
+                                                   Foreground="Black" FontWeight="Bold" FontFamily="Microsoft YaHei" FocusVisualPrimaryBrush="#FFEC831B" />
+            </StackPanel>
+            <maps:MapControl x:ConnectionId='4' x:Name="MapControl"
+                             Height="500"
+                             />
+        </StackPanel>
+
+        <Rectangle x:ConnectionId='2' x:Name="bar_Top_Main" Height="31" Stroke="Black" VerticalAlignment="Top" Fill="Black"/>
+    </Grid>
+</Page>
+

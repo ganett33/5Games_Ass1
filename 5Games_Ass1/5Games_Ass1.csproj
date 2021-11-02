@@ -1,0 +1,299 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProjectGuid>{F7D76E8B-B52C-4E73-9CBD-D52A1C1046C1}</ProjectGuid>
+    <OutputType>AppContainerExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>_5Games_Ass1</RootNamespace>
+    <AssemblyName>5Games_Ass1</AssemblyName>
+    <DefaultLanguage>en-US</DefaultLanguage>
+    <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
+    <TargetPlatformVersion Condition=" '$(TargetPlatformVersion)' == '' ">10.0.19041.0</TargetPlatformVersion>
+    <TargetPlatformMinVersion>10.0.17763.0</TargetPlatformMinVersion>
+    <MinimumVisualStudioVersion>14</MinimumVisualStudioVersion>
+    <FileAlignment>512</FileAlignment>
+    <ProjectTypeGuids>{A5A43C5B-DE2A-4C0C-9213-0A381AF9435A};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <WindowsXamlEnableOverview>true</WindowsXamlEnableOverview>
+    <AppxPackageSigningEnabled>false</AppxPackageSigningEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x86'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\x86\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE;NETFX_CORE;WINDOWS_UWP</DefineConstants>
+    <NoWarn>;2008</NoWarn>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+    <ErrorReport>prompt</ErrorReport>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x86'">
+    <OutputPath>bin\x86\Release\</OutputPath>
+    <DefineConstants>TRACE;NETFX_CORE;WINDOWS_UWP</DefineConstants>
+    <Optimize>true</Optimize>
+    <NoWarn>;2008</NoWarn>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+    <ErrorReport>prompt</ErrorReport>
+    <Prefer32Bit>true</Prefer32Bit>
+    <UseDotNetNativeToolchain>true</UseDotNetNativeToolchain>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|ARM'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\ARM\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE;NETFX_CORE;WINDOWS_UWP</DefineConstants>
+    <NoWarn>;2008</NoWarn>
+    <DebugType>full</DebugType>
+    <PlatformTarget>ARM</PlatformTarget>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+    <ErrorReport>prompt</ErrorReport>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|ARM'">
+    <OutputPath>bin\ARM\Release\</OutputPath>
+    <DefineConstants>TRACE;NETFX_CORE;WINDOWS_UWP</DefineConstants>
+    <Optimize>true</Optimize>
+    <NoWarn>;2008</NoWarn>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>ARM</PlatformTarget>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+    <ErrorReport>prompt</ErrorReport>
+    <Prefer32Bit>true</Prefer32Bit>
+    <UseDotNetNativeToolchain>true</UseDotNetNativeToolchain>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|ARM64'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\ARM64\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE;NETFX_CORE;WINDOWS_UWP</DefineConstants>
+    <NoWarn>;2008</NoWarn>
+    <DebugType>full</DebugType>
+    <PlatformTarget>ARM64</PlatformTarget>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+    <ErrorReport>prompt</ErrorReport>
+    <Prefer32Bit>true</Prefer32Bit>
+    <UseDotNetNativeToolchain>true</UseDotNetNativeToolchain>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|ARM64'">
+    <OutputPath>bin\ARM64\Release\</OutputPath>
+    <DefineConstants>TRACE;NETFX_CORE;WINDOWS_UWP</DefineConstants>
+    <Optimize>true</Optimize>
+    <NoWarn>;2008</NoWarn>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>ARM64</PlatformTarget>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+    <ErrorReport>prompt</ErrorReport>
+    <Prefer32Bit>true</Prefer32Bit>
+    <UseDotNetNativeToolchain>true</UseDotNetNativeToolchain>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x64'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\x64\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE;NETFX_CORE;WINDOWS_UWP</DefineConstants>
+    <NoWarn>;2008</NoWarn>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x64</PlatformTarget>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+    <ErrorReport>prompt</ErrorReport>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x64'">
+    <OutputPath>bin\x64\Release\</OutputPath>
+    <DefineConstants>TRACE;NETFX_CORE;WINDOWS_UWP</DefineConstants>
+    <Optimize>true</Optimize>
+    <NoWarn>;2008</NoWarn>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x64</PlatformTarget>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+    <ErrorReport>prompt</ErrorReport>
+    <Prefer32Bit>true</Prefer32Bit>
+    <UseDotNetNativeToolchain>true</UseDotNetNativeToolchain>
+  </PropertyGroup>
+  <PropertyGroup>
+    <RestoreProjectStyle>PackageReference</RestoreProjectStyle>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="App.xaml.cs">
+      <DependentUpon>App.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Data\Sound.cs" />
+    <Compile Include="Dice.xaml.cs">
+      <DependentUpon>Dice.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Data\Dices.cs" />
+    <Compile Include="Data\Drink.cs" />
+    <Compile Include="Drinks.xaml.cs">
+      <DependentUpon>Drinks.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Data\DrinksManager.cs" />
+    <Compile Include="Lotto.xaml.cs">
+      <DependentUpon>Lotto.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Data\Lotto_Class.cs" />
+    <Compile Include="MainPage.xaml.cs">
+      <DependentUpon>MainPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Map.xaml.cs">
+      <DependentUpon>Map.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Prediction.xaml.cs">
+      <DependentUpon>Prediction.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Slot.xaml.cs">
+      <DependentUpon>Slot.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Data\Slot_Func.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <AppxManifest Include="Package.appxmanifest">
+      <SubType>Designer</SubType>
+    </AppxManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Assets\bg_Dice.jpg" />
+    <Content Include="Assets\bg_Drinks.jpg" />
+    <Content Include="Assets\bg_Lotto.jpg" />
+    <Content Include="Assets\bg_Main_3.gif" />
+    <Content Include="Assets\bg_predic_1.jpg" />
+    <Content Include="Assets\bg_Slot.jpg" />
+    <Content Include="Assets\Dice\tenor.gif" />
+    <Content Include="Assets\Media\bg_Predic.wmv" />
+    <Content Include="Assets\Media\Gameover.mp3" />
+    <Content Include="Assets\Media\Good Luck.mp3" />
+    <Content Include="Assets\Media\Jackpot.mp3" />
+    <Content Include="Assets\Media\main_bg.mp3" />
+    <Content Include="Assets\Media\Rolling Dice.mp3" />
+    <Content Include="Assets\Media\Spin.mp3" />
+    <Content Include="Assets\Media\Stop.mp3" />
+    <Content Include="Assets\Predic\blank.png" />
+    <Content Include="Assets\Dice\five.png" />
+    <Content Include="Assets\Dice\four.png" />
+    <Content Include="Assets\Dice\one.png" />
+    <Content Include="Assets\Dice\six.png" />
+    <Content Include="Assets\Dice\three.png" />
+    <Content Include="Assets\Dice\two.png" />
+    <Content Include="Assets\Icon\dice_normal.svg" />
+    <Content Include="Assets\Icon\dice_select.svg" />
+    <Content Include="Assets\Drinks\Cosmopolitan.png" />
+    <Content Include="Assets\Drinks\Daiquiri.png" />
+    <Content Include="Assets\Drinks\Dark n Stormy.png" />
+    <Content Include="Assets\Drinks\Empty Glass.png" />
+    <Content Include="Assets\Drinks\French 75.png" />
+    <Content Include="Assets\Drinks\Gimlet.png" />
+    <Content Include="Assets\Drinks\Manhattan.png" />
+    <Content Include="Assets\Drinks\Margarita.png" />
+    <Content Include="Assets\Drinks\Martinez.png" />
+    <Content Include="Assets\Drinks\Martini.png" />
+    <Content Include="Assets\Drinks\Mimosa.png" />
+    <Content Include="Assets\Drinks\Mint Julep.png" />
+    <Content Include="Assets\Drinks\Mojito.png" />
+    <Content Include="Assets\Drinks\Moscow Mule.png" />
+    <Content Include="Assets\Drinks\Negroni.png" />
+    <Content Include="Assets\Drinks\Old Fashioned.png" />
+    <Content Include="Assets\Drinks\Paloma.png" />
+    <Content Include="Assets\Drinks\Pimms Cup.png" />
+    <Content Include="Assets\Drinks\Pina Colada.png" />
+    <Content Include="Assets\Drinks\Sazerac.png" />
+    <Content Include="Assets\Drinks\Sidecar.png" />
+    <Content Include="Assets\Drinks\Singapore Sling.png" />
+    <Content Include="Assets\Drinks\Surfer Girl.png" />
+    <Content Include="Assets\Drinks\Whiskey Sour.png" />
+    <Content Include="Assets\Icon\drink_normal.svg" />
+    <Content Include="Assets\Icon\drink_select.svg" />
+    <Content Include="Assets\logoOut.png" />
+    <Content Include="Assets\Icon\lotto.svg" />
+    <Content Include="Assets\Lotto\LottoEffect.gif" />
+    <Content Include="Assets\Icon\lotto_normal.svg" />
+    <Content Include="Assets\Icon\lotto_select.svg" />
+    <Content Include="Assets\Icon\main_normal.svg" />
+    <Content Include="Assets\Icon\main_select.svg" />
+    <Content Include="Assets\Predic\hand.png" />
+    <Content Include="Assets\Icon\predic_normal.svg" />
+    <Content Include="Assets\Icon\predic_select.svg" />
+    <Content Include="Assets\Icon\slot-machine.svg" />
+    <Content Include="Assets\Predic\print.png" />
+    <Content Include="Assets\Slot\Spining.gif" />
+    <Content Include="Assets\Slot\bg_slot2.jpg" />
+    <Content Include="Assets\Slot\bg_slot5.jpg" />
+    <Content Include="Assets\Slot\lose_Game.jpg" />
+    <Content Include="Assets\Slot\win_Game.jpg" />
+    <Content Include="Assets\Media\Coin.mp3" />
+    <Content Include="Assets\Slot\img_Apple_Slot.png" />
+    <Content Include="Assets\Slot\img_Cherry_Slot.png" />
+    <Content Include="Assets\Slot\img_Gem_Slot.png" />
+    <Content Include="Assets\Slot\img_Heart_Slot.png" />
+    <Content Include="Assets\Slot\img_slot_godzilla.gif" />
+    <Content Include="Assets\Slot\img_Welcom.gif" />
+    <Content Include="Assets\Slot\lose.png" />
+    <Content Include="Assets\Slot\win.png" />
+    <Content Include="Assets\Slot\LoseGame.jpg" />
+    <Content Include="Assets\Slot\slot.png" />
+    <Content Include="Assets\Slot\WinGame.gif" />
+    <Content Include="Assets\Icon\slot_normal.svg" />
+    <Content Include="Assets\Icon\slot_select.svg" />
+    <Content Include="Assets\tauranga.jpg" />
+    <Content Include="Properties\Default.rd.xml" />
+    <Content Include="Assets\LockScreenLogo.scale-200.png" />
+    <Content Include="Assets\SplashScreen.scale-200.png" />
+    <Content Include="Assets\Square150x150Logo.scale-200.png" />
+    <Content Include="Assets\Square44x44Logo.scale-200.png" />
+    <Content Include="Assets\Square44x44Logo.targetsize-24_altform-unplated.png" />
+    <Content Include="Assets\StoreLogo.png" />
+    <Content Include="Assets\Wide310x150Logo.scale-200.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <ApplicationDefinition Include="App.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+    <Page Include="Dice.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Drinks.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Lotto.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="MainPage.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Map.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Prediction.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Slot.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="Microsoft.NETCore.UniversalWindowsPlatform">
+      <Version>6.2.11</Version>
+    </PackageReference>
+  </ItemGroup>
+  <ItemGroup />
+  <PropertyGroup Condition=" '$(VisualStudioVersion)' == '' or '$(VisualStudioVersion)' &lt; '14.0' ">
+    <VisualStudioVersion>14.0</VisualStudioVersion>
+  </PropertyGroup>
+  <Import Project="$(MSBuildExtensionsPath)\Microsoft\WindowsXaml\v$(VisualStudioVersion)\Microsoft.Windows.UI.Xaml.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,873 @@
+C:\Users\ganet\source\repos\5Games_Ass1\5Games_Ass1\obj\x86\Debug\App.g.i.cs
+C:\Users\ganet\source\repos\5Games_Ass1\5Games_Ass1\obj\x86\Debug\App.g.cs
+C:\Users\ganet\source\repos\5Games_Ass1\5Games_Ass1\obj\x86\Debug\MainPage.g.i.cs
+C:\Users\ganet\source\repos\5Games_Ass1\5Games_Ass1\obj\x86\Debug\MainPage.g.cs
+C:\Users\ganet\source\repos\5Games_Ass1\5Games_Ass1\obj\x86\Debug\XamlTypeInfo.g.cs
+C:\Users\ganet\source\repos\5Games_Ass1\5Games_Ass1\obj\x86\Debug\App.xaml
+C:\Users\ganet\source\repos\5Games_Ass1\5Games_Ass1\obj\x86\Debug\MainPage.xaml
+C:\Users\ganet\source\repos\5Games_Ass1\5Games_Ass1\obj\x86\Debug\App.xbf
+C:\Users\ganet\source\repos\5Games_Ass1\5Games_Ass1\obj\x86\Debug\MainPage.xbf
+C:\Users\ganet\source\repos\5Games_Ass1\5Games_Ass1\obj\x86\Debug\XamlSaveStateFile.xml
+C:\Users\ganet\source\repos\5Games_Ass1\5Games_Ass1\obj\x86\Debug\5Games_Ass1.csproj.CoreCompileInputs.cache
+C:\Users\ganet\source\repos\5Games_Ass1\5Games_Ass1\bin\x86\Debug\App.xbf
+C:\Users\ganet\source\repos\5Games_Ass1\5Games_Ass1\bin\x86\Debug\MainPage.xbf
+C:\Users\ganet\source\repos\5Games_Ass1\5Games_Ass1\bin\x86\Debug\5Games_Ass1.xr.xml
+C:\Users\ganet\source\repos\5Games_Ass1\5Games_Ass1\bin\x86\Debug\5Games_Ass1.exe
+C:\Users\ganet\source\repos\5Games_Ass1\5Games_Ass1\bin\x86\Debug\5Games_Ass1.pdb
+C:\Users\ganet\source\repos\5Games_Ass1\5Games_Ass1\bin\x86\Debug\resources.pri
+C:\Users\ganet\source\repos\5Games_Ass1\5Games_Ass1\bin\x86\Debug\AppxManifest.xml
+C:\Users\ganet\source\repos\5Games_Ass1\5Games_Ass1\bin\x86\Debug\Core\5Games_Ass1.exe
+C:\Users\ganet\source\repos\5Games_Ass1\5Games_Ass1\bin\x86\Debug\Core\AppxManifest.xml
+C:\Users\ganet\source\repos\5Games_Ass1\5Games_Ass1\bin\x86\Debug\5Games_Ass1.build.appxrecipe
+C:\Users\ganet\source\repos\5Games_Ass1\5Games_Ass1\bin\x86\Debug\System.Runtime.dll
+C:\Users\ganet\source\repos\5Games_Ass1\5Games_Ass1\bin\x86\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\Users\ganet\source\repos\5Games_Ass1\5Games_Ass1\obj\x86\Debug\5Games_Ass1.csproj.CopyComplete
+C:\Users\ganet\source\repos\5Games_Ass1\5Games_Ass1\obj\x86\Debug\5Games_Ass1.exe
+C:\Users\ganet\source\repos\5Games_Ass1\5Games_Ass1\obj\x86\Debug\5Games_Ass1.pdb
+C:\Users\ganet\source\repos\5Games_Ass1\5Games_Ass1\obj\x86\Debug\ResourceHandlingTask.state
+C:\Users\ganet\source\repos\5Games_Ass1\5Games_Ass1\obj\x86\Debug\priconfig.xml
+C:\Users\ganet\source\repos\5Games_Ass1\5Games_Ass1\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\ganet\source\repos\5Games_Ass1\5Games_Ass1\obj\x86\Debug\unfiltered.layout.resfiles
+C:\Users\ganet\source\repos\5Games_Ass1\5Games_Ass1\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\ganet\source\repos\5Games_Ass1\5Games_Ass1\obj\x86\Debug\filtered.layout.resfiles
+C:\Users\ganet\source\repos\5Games_Ass1\5Games_Ass1\obj\x86\Debug\filtered.layout.resfiles.intermediate
+C:\Users\ganet\source\repos\5Games_Ass1\5Games_Ass1\obj\x86\Debug\excluded.layout.resfiles
+C:\Users\ganet\source\repos\5Games_Ass1\5Games_Ass1\obj\x86\Debug\excluded.layout.resfiles.intermediate
+C:\Users\ganet\source\repos\5Games_Ass1\5Games_Ass1\obj\x86\Debug\resources.resfiles
+C:\Users\ganet\source\repos\5Games_Ass1\5Games_Ass1\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\ganet\source\repos\5Games_Ass1\5Games_Ass1\obj\x86\Debug\pri.resfiles
+C:\Users\ganet\source\repos\5Games_Ass1\5Games_Ass1\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\ganet\source\repos\5Games_Ass1\5Games_Ass1\obj\x86\Debug\qualifiers.txt
+C:\Users\ganet\source\repos\5Games_Ass1\5Games_Ass1\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Users\ganet\source\repos\5Games_Ass1\5Games_Ass1\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\ganet\source\repos\5Games_Ass1\5Games_Ass1\obj\x86\Debug\ProjectArchitectures.txt
+C:\Users\ganet\source\repos\5Games_Ass1\5Games_Ass1\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_637424347200000000.json
+C:\Users\ganet\source\repos\5Games_Ass1\5Games_Ass1\obj\x86\Debug\5Games_Ass1.csprojAssemblyReference.cache
+\\FS\STUDENT$\30001192\Desktop\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\bin\x86\Debug\App.xbf
+\\FS\STUDENT$\30001192\Desktop\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\bin\x86\Debug\Dice.xbf
+\\FS\STUDENT$\30001192\Desktop\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\bin\x86\Debug\Drinks.xbf
+\\FS\STUDENT$\30001192\Desktop\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\bin\x86\Debug\Lotto.xbf
+\\FS\STUDENT$\30001192\Desktop\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\bin\x86\Debug\MainPage.xbf
+\\FS\STUDENT$\30001192\Desktop\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\bin\x86\Debug\Prediction.xbf
+\\FS\STUDENT$\30001192\Desktop\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\bin\x86\Debug\Slot.xbf
+\\FS\STUDENT$\30001192\Desktop\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\bin\x86\Debug\5Games_Ass1.xr.xml
+\\FS\STUDENT$\30001192\Desktop\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\bin\x86\Debug\5Games_Ass1.exe
+\\FS\STUDENT$\30001192\Desktop\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\bin\x86\Debug\5Games_Ass1.pdb
+\\FS\STUDENT$\30001192\Desktop\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\bin\x86\Debug\resources.pri
+\\FS\STUDENT$\30001192\Desktop\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\bin\x86\Debug\AppxManifest.xml
+\\FS\STUDENT$\30001192\Desktop\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\bin\x86\Debug\Core\5Games_Ass1.exe
+\\FS\STUDENT$\30001192\Desktop\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\bin\x86\Debug\Core\AppxManifest.xml
+\\FS\STUDENT$\30001192\Desktop\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\bin\x86\Debug\5Games_Ass1.build.appxrecipe
+\\FS\STUDENT$\30001192\Desktop\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\bin\x86\Debug\System.Runtime.dll
+\\FS\STUDENT$\30001192\Desktop\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\bin\x86\Debug\Microsoft.UI.Xaml.Markup.winmd
+\\FS\STUDENT$\30001192\Desktop\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\obj\x86\Debug\App.g.i.cs
+\\FS\STUDENT$\30001192\Desktop\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\obj\x86\Debug\App.g.cs
+\\FS\STUDENT$\30001192\Desktop\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\obj\x86\Debug\Dice.g.i.cs
+\\FS\STUDENT$\30001192\Desktop\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\obj\x86\Debug\Dice.g.cs
+\\FS\STUDENT$\30001192\Desktop\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\obj\x86\Debug\Drinks.g.i.cs
+\\FS\STUDENT$\30001192\Desktop\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\obj\x86\Debug\Drinks.g.cs
+\\FS\STUDENT$\30001192\Desktop\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\obj\x86\Debug\Lotto.g.i.cs
+\\FS\STUDENT$\30001192\Desktop\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\obj\x86\Debug\Lotto.g.cs
+\\FS\STUDENT$\30001192\Desktop\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\obj\x86\Debug\MainPage.g.i.cs
+\\FS\STUDENT$\30001192\Desktop\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\obj\x86\Debug\MainPage.g.cs
+\\FS\STUDENT$\30001192\Desktop\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\obj\x86\Debug\Prediction.g.i.cs
+\\FS\STUDENT$\30001192\Desktop\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\obj\x86\Debug\Prediction.g.cs
+\\FS\STUDENT$\30001192\Desktop\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\obj\x86\Debug\Slot.g.i.cs
+\\FS\STUDENT$\30001192\Desktop\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\obj\x86\Debug\Slot.g.cs
+\\FS\STUDENT$\30001192\Desktop\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\obj\x86\Debug\XamlTypeInfo.g.cs
+\\FS\STUDENT$\30001192\Desktop\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\obj\x86\Debug\App.xaml
+\\FS\STUDENT$\30001192\Desktop\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\obj\x86\Debug\Dice.xaml
+\\FS\STUDENT$\30001192\Desktop\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\obj\x86\Debug\Drinks.xaml
+\\FS\STUDENT$\30001192\Desktop\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\obj\x86\Debug\Lotto.xaml
+\\FS\STUDENT$\30001192\Desktop\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\obj\x86\Debug\MainPage.xaml
+\\FS\STUDENT$\30001192\Desktop\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\obj\x86\Debug\Prediction.xaml
+\\FS\STUDENT$\30001192\Desktop\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\obj\x86\Debug\Slot.xaml
+\\FS\STUDENT$\30001192\Desktop\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\obj\x86\Debug\App.xbf
+\\FS\STUDENT$\30001192\Desktop\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\obj\x86\Debug\Dice.xbf
+\\FS\STUDENT$\30001192\Desktop\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\obj\x86\Debug\Drinks.xbf
+\\FS\STUDENT$\30001192\Desktop\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\obj\x86\Debug\Lotto.xbf
+\\FS\STUDENT$\30001192\Desktop\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\obj\x86\Debug\MainPage.xbf
+\\FS\STUDENT$\30001192\Desktop\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\obj\x86\Debug\Prediction.xbf
+\\FS\STUDENT$\30001192\Desktop\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\obj\x86\Debug\Slot.xbf
+\\FS\STUDENT$\30001192\Desktop\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\obj\x86\Debug\XamlSaveStateFile.xml
+\\FS\STUDENT$\30001192\Desktop\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\obj\x86\Debug\5Games_Ass1.csproj.CoreCompileInputs.cache
+\\FS\STUDENT$\30001192\Desktop\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\obj\x86\Debug\5Games_Ass1.csproj.CopyComplete
+\\FS\STUDENT$\30001192\Desktop\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\obj\x86\Debug\5Games_Ass1.exe
+\\FS\STUDENT$\30001192\Desktop\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\obj\x86\Debug\5Games_Ass1.pdb
+\\FS\STUDENT$\30001192\Desktop\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\obj\x86\Debug\ResourceHandlingTask.state
+\\FS\STUDENT$\30001192\Desktop\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\obj\x86\Debug\priconfig.xml
+\\FS\STUDENT$\30001192\Desktop\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\obj\x86\Debug\priconfig.xml.intermediate
+\\FS\STUDENT$\30001192\Desktop\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\obj\x86\Debug\unfiltered.layout.resfiles
+\\FS\STUDENT$\30001192\Desktop\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+\\FS\STUDENT$\30001192\Desktop\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\obj\x86\Debug\filtered.layout.resfiles
+\\FS\STUDENT$\30001192\Desktop\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\obj\x86\Debug\filtered.layout.resfiles.intermediate
+\\FS\STUDENT$\30001192\Desktop\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\obj\x86\Debug\excluded.layout.resfiles
+\\FS\STUDENT$\30001192\Desktop\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\obj\x86\Debug\excluded.layout.resfiles.intermediate
+\\FS\STUDENT$\30001192\Desktop\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\obj\x86\Debug\resources.resfiles
+\\FS\STUDENT$\30001192\Desktop\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\obj\x86\Debug\resources.resfiles.intermediate
+\\FS\STUDENT$\30001192\Desktop\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\obj\x86\Debug\pri.resfiles
+\\FS\STUDENT$\30001192\Desktop\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\obj\x86\Debug\pri.resfiles.intermediate
+\\FS\STUDENT$\30001192\Desktop\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\obj\x86\Debug\qualifiers.txt
+\\FS\STUDENT$\30001192\Desktop\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\obj\x86\Debug\qualifiers.txt.intermediate
+\\FS\STUDENT$\30001192\Desktop\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+\\FS\STUDENT$\30001192\Desktop\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\obj\x86\Debug\ProjectArchitectures.txt
+\\FS\STUDENT$\30001192\Desktop\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_637112138540000000.json
+\\FS\STUDENT$\30001192\Desktop\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\obj\x86\Debug\5Games_Ass1.csprojAssemblyReference.cache
+C:\Users\ganet\OneDrive\바탕 화면\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\bin\x86\Debug\App.xbf
+C:\Users\ganet\OneDrive\바탕 화면\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\bin\x86\Debug\Dice.xbf
+C:\Users\ganet\OneDrive\바탕 화면\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\bin\x86\Debug\Drinks.xbf
+C:\Users\ganet\OneDrive\바탕 화면\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\bin\x86\Debug\Lotto.xbf
+C:\Users\ganet\OneDrive\바탕 화면\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\bin\x86\Debug\MainPage.xbf
+C:\Users\ganet\OneDrive\바탕 화면\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\bin\x86\Debug\Prediction.xbf
+C:\Users\ganet\OneDrive\바탕 화면\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\bin\x86\Debug\Slot.xbf
+C:\Users\ganet\OneDrive\바탕 화면\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\bin\x86\Debug\5Games_Ass1.xr.xml
+C:\Users\ganet\OneDrive\바탕 화면\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\bin\x86\Debug\5Games_Ass1.exe
+C:\Users\ganet\OneDrive\바탕 화면\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\bin\x86\Debug\5Games_Ass1.pdb
+C:\Users\ganet\OneDrive\바탕 화면\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\bin\x86\Debug\resources.pri
+C:\Users\ganet\OneDrive\바탕 화면\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\bin\x86\Debug\AppxManifest.xml
+C:\Users\ganet\OneDrive\바탕 화면\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\bin\x86\Debug\Core\5Games_Ass1.exe
+C:\Users\ganet\OneDrive\바탕 화면\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\bin\x86\Debug\Core\AppxManifest.xml
+C:\Users\ganet\OneDrive\바탕 화면\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\bin\x86\Debug\5Games_Ass1.build.appxrecipe
+C:\Users\ganet\OneDrive\바탕 화면\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\bin\x86\Debug\System.Runtime.dll
+C:\Users\ganet\OneDrive\바탕 화면\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\bin\x86\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\Users\ganet\OneDrive\바탕 화면\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\obj\x86\Debug\5Games_Ass1.csprojAssemblyReference.cache
+C:\Users\ganet\OneDrive\바탕 화면\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\obj\x86\Debug\App.g.i.cs
+C:\Users\ganet\OneDrive\바탕 화면\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\obj\x86\Debug\App.g.cs
+C:\Users\ganet\OneDrive\바탕 화면\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\obj\x86\Debug\Dice.g.i.cs
+C:\Users\ganet\OneDrive\바탕 화면\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\obj\x86\Debug\Dice.g.cs
+C:\Users\ganet\OneDrive\바탕 화면\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\obj\x86\Debug\Drinks.g.i.cs
+C:\Users\ganet\OneDrive\바탕 화면\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\obj\x86\Debug\Drinks.g.cs
+C:\Users\ganet\OneDrive\바탕 화면\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\obj\x86\Debug\Lotto.g.i.cs
+C:\Users\ganet\OneDrive\바탕 화면\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\obj\x86\Debug\Lotto.g.cs
+C:\Users\ganet\OneDrive\바탕 화면\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\obj\x86\Debug\MainPage.g.i.cs
+C:\Users\ganet\OneDrive\바탕 화면\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\obj\x86\Debug\MainPage.g.cs
+C:\Users\ganet\OneDrive\바탕 화면\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\obj\x86\Debug\Prediction.g.i.cs
+C:\Users\ganet\OneDrive\바탕 화면\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\obj\x86\Debug\Prediction.g.cs
+C:\Users\ganet\OneDrive\바탕 화면\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\obj\x86\Debug\Slot.g.i.cs
+C:\Users\ganet\OneDrive\바탕 화면\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\obj\x86\Debug\Slot.g.cs
+C:\Users\ganet\OneDrive\바탕 화면\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\obj\x86\Debug\XamlTypeInfo.g.cs
+C:\Users\ganet\OneDrive\바탕 화면\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\obj\x86\Debug\App.xaml
+C:\Users\ganet\OneDrive\바탕 화면\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\obj\x86\Debug\Dice.xaml
+C:\Users\ganet\OneDrive\바탕 화면\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\obj\x86\Debug\Drinks.xaml
+C:\Users\ganet\OneDrive\바탕 화면\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\obj\x86\Debug\Lotto.xaml
+C:\Users\ganet\OneDrive\바탕 화면\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\obj\x86\Debug\MainPage.xaml
+C:\Users\ganet\OneDrive\바탕 화면\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\obj\x86\Debug\Prediction.xaml
+C:\Users\ganet\OneDrive\바탕 화면\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\obj\x86\Debug\Slot.xaml
+C:\Users\ganet\OneDrive\바탕 화면\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\obj\x86\Debug\App.xbf
+C:\Users\ganet\OneDrive\바탕 화면\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\obj\x86\Debug\Dice.xbf
+C:\Users\ganet\OneDrive\바탕 화면\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\obj\x86\Debug\Drinks.xbf
+C:\Users\ganet\OneDrive\바탕 화면\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\obj\x86\Debug\Lotto.xbf
+C:\Users\ganet\OneDrive\바탕 화면\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\obj\x86\Debug\MainPage.xbf
+C:\Users\ganet\OneDrive\바탕 화면\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\obj\x86\Debug\Prediction.xbf
+C:\Users\ganet\OneDrive\바탕 화면\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\obj\x86\Debug\Slot.xbf
+C:\Users\ganet\OneDrive\바탕 화면\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\obj\x86\Debug\XamlSaveStateFile.xml
+C:\Users\ganet\OneDrive\바탕 화면\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\obj\x86\Debug\5Games_Ass1.csproj.CoreCompileInputs.cache
+C:\Users\ganet\OneDrive\바탕 화면\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\obj\x86\Debug\5Games_Ass1.csproj.CopyComplete
+C:\Users\ganet\OneDrive\바탕 화면\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\obj\x86\Debug\5Games_Ass1.exe
+C:\Users\ganet\OneDrive\바탕 화면\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\obj\x86\Debug\5Games_Ass1.pdb
+C:\Users\ganet\OneDrive\바탕 화면\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\obj\x86\Debug\ResourceHandlingTask.state
+C:\Users\ganet\OneDrive\바탕 화면\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\obj\x86\Debug\priconfig.xml
+C:\Users\ganet\OneDrive\바탕 화면\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\ganet\OneDrive\바탕 화면\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\obj\x86\Debug\unfiltered.layout.resfiles
+C:\Users\ganet\OneDrive\바탕 화면\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\ganet\OneDrive\바탕 화면\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\obj\x86\Debug\filtered.layout.resfiles
+C:\Users\ganet\OneDrive\바탕 화면\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\obj\x86\Debug\filtered.layout.resfiles.intermediate
+C:\Users\ganet\OneDrive\바탕 화면\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\obj\x86\Debug\excluded.layout.resfiles
+C:\Users\ganet\OneDrive\바탕 화면\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\obj\x86\Debug\excluded.layout.resfiles.intermediate
+C:\Users\ganet\OneDrive\바탕 화면\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\obj\x86\Debug\resources.resfiles
+C:\Users\ganet\OneDrive\바탕 화면\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\ganet\OneDrive\바탕 화면\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\obj\x86\Debug\pri.resfiles
+C:\Users\ganet\OneDrive\바탕 화면\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\ganet\OneDrive\바탕 화면\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\obj\x86\Debug\qualifiers.txt
+C:\Users\ganet\OneDrive\바탕 화면\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Users\ganet\OneDrive\바탕 화면\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\ganet\OneDrive\바탕 화면\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\obj\x86\Debug\ProjectArchitectures.txt
+C:\Users\ganet\OneDrive\바탕 화면\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_637112138540000000.json
+C:\Users\ganet\OneDrive\바탕 화면\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_637424347200000000.json
+C:\Users\ganet\OneDrive\바탕 화면\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\obj\x86\Debug\Map.g.i.cs
+C:\Users\ganet\OneDrive\바탕 화면\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\obj\x86\Debug\Map.g.cs
+C:\Users\ganet\OneDrive\바탕 화면\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\obj\x86\Debug\Map.xaml
+C:\Users\ganet\OneDrive\바탕 화면\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\obj\x86\Debug\Map.xbf
+C:\Users\ganet\OneDrive\바탕 화면\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\bin\x86\Debug\Map.xbf
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\Assignment1\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\obj\x86\Debug\5Games_Ass1.csprojAssemblyReference.cache
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\Assignment1\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\obj\x86\Debug\App.g.i.cs
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\Assignment1\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\obj\x86\Debug\App.g.cs
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\Assignment1\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\obj\x86\Debug\Dice.g.i.cs
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\Assignment1\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\obj\x86\Debug\Dice.g.cs
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\Assignment1\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\obj\x86\Debug\Drinks.g.i.cs
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\Assignment1\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\obj\x86\Debug\Drinks.g.cs
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\Assignment1\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\obj\x86\Debug\Lotto.g.i.cs
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\Assignment1\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\obj\x86\Debug\Lotto.g.cs
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\Assignment1\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\obj\x86\Debug\MainPage.g.i.cs
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\Assignment1\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\obj\x86\Debug\MainPage.g.cs
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\Assignment1\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\obj\x86\Debug\Map.g.i.cs
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\Assignment1\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\obj\x86\Debug\Map.g.cs
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\Assignment1\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\obj\x86\Debug\Prediction.g.i.cs
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\Assignment1\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\obj\x86\Debug\Prediction.g.cs
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\Assignment1\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\obj\x86\Debug\Slot.g.i.cs
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\Assignment1\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\obj\x86\Debug\Slot.g.cs
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\Assignment1\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\obj\x86\Debug\XamlTypeInfo.g.cs
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\Assignment1\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\obj\x86\Debug\App.xaml
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\Assignment1\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\obj\x86\Debug\Dice.xaml
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\Assignment1\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\obj\x86\Debug\Drinks.xaml
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\Assignment1\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\obj\x86\Debug\Lotto.xaml
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\Assignment1\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\obj\x86\Debug\MainPage.xaml
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\Assignment1\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\obj\x86\Debug\Map.xaml
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\Assignment1\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\obj\x86\Debug\Prediction.xaml
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\Assignment1\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\obj\x86\Debug\Slot.xaml
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\Assignment1\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\obj\x86\Debug\App.xbf
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\Assignment1\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\obj\x86\Debug\Dice.xbf
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\Assignment1\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\obj\x86\Debug\Drinks.xbf
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\Assignment1\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\obj\x86\Debug\Lotto.xbf
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\Assignment1\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\obj\x86\Debug\MainPage.xbf
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\Assignment1\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\obj\x86\Debug\Map.xbf
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\Assignment1\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\obj\x86\Debug\Prediction.xbf
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\Assignment1\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\obj\x86\Debug\Slot.xbf
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\Assignment1\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\obj\x86\Debug\XamlSaveStateFile.xml
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\Assignment1\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\obj\x86\Debug\5Games_Ass1.exe
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\Assignment1\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\obj\x86\Debug\5Games_Ass1.pdb
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\Assignment1\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\obj\x86\Debug\5Games_Ass1.csproj.CoreCompileInputs.cache
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\Assignment1\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\bin\x86\Debug\App.xbf
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\Assignment1\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\bin\x86\Debug\Dice.xbf
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\Assignment1\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\bin\x86\Debug\Drinks.xbf
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\Assignment1\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\bin\x86\Debug\Lotto.xbf
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\Assignment1\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\bin\x86\Debug\MainPage.xbf
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\Assignment1\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\bin\x86\Debug\Map.xbf
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\Assignment1\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\bin\x86\Debug\Prediction.xbf
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\Assignment1\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\bin\x86\Debug\Slot.xbf
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\Assignment1\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\bin\x86\Debug\5Games_Ass1.xr.xml
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\Assignment1\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\bin\x86\Debug\5Games_Ass1.exe
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\Assignment1\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\bin\x86\Debug\5Games_Ass1.pdb
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\Assignment1\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\bin\x86\Debug\resources.pri
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\Assignment1\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\bin\x86\Debug\AppxManifest.xml
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\Assignment1\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\bin\x86\Debug\Core\5Games_Ass1.exe
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\Assignment1\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\bin\x86\Debug\Core\AppxManifest.xml
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\Assignment1\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\bin\x86\Debug\5Games_Ass1.build.appxrecipe
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\Assignment1\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\bin\x86\Debug\System.Runtime.dll
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\Assignment1\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\bin\x86\Debug\Microsoft.UI.Xaml.Markup.winmd
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\Assignment1\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\obj\x86\Debug\5Games_Ass1.csproj.CopyComplete
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\Assignment1\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\obj\x86\Debug\ResourceHandlingTask.state
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\Assignment1\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\obj\x86\Debug\priconfig.xml
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\Assignment1\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\obj\x86\Debug\priconfig.xml.intermediate
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\Assignment1\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\obj\x86\Debug\unfiltered.layout.resfiles
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\Assignment1\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\Assignment1\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\obj\x86\Debug\filtered.layout.resfiles
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\Assignment1\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\obj\x86\Debug\filtered.layout.resfiles.intermediate
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\Assignment1\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\obj\x86\Debug\excluded.layout.resfiles
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\Assignment1\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\obj\x86\Debug\excluded.layout.resfiles.intermediate
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\Assignment1\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\obj\x86\Debug\resources.resfiles
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\Assignment1\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\obj\x86\Debug\resources.resfiles.intermediate
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\Assignment1\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\obj\x86\Debug\pri.resfiles
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\Assignment1\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\obj\x86\Debug\pri.resfiles.intermediate
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\Assignment1\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\obj\x86\Debug\qualifiers.txt
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\Assignment1\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\obj\x86\Debug\qualifiers.txt.intermediate
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\Assignment1\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\Assignment1\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\obj\x86\Debug\ProjectArchitectures.txt
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\Assignment1\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_637112138540000000.json
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\Assignment1\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_637424347200000000.json
+C:\Users\30001192\source\repos\Assignment1\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\obj\x86\Debug\App.g.i.cs
+C:\Users\30001192\source\repos\Assignment1\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\obj\x86\Debug\App.g.cs
+C:\Users\30001192\source\repos\Assignment1\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\obj\x86\Debug\Dice.g.i.cs
+C:\Users\30001192\source\repos\Assignment1\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\obj\x86\Debug\Dice.g.cs
+C:\Users\30001192\source\repos\Assignment1\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\obj\x86\Debug\Drinks.g.i.cs
+C:\Users\30001192\source\repos\Assignment1\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\obj\x86\Debug\Drinks.g.cs
+C:\Users\30001192\source\repos\Assignment1\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\obj\x86\Debug\Lotto.g.i.cs
+C:\Users\30001192\source\repos\Assignment1\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\obj\x86\Debug\Lotto.g.cs
+C:\Users\30001192\source\repos\Assignment1\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\obj\x86\Debug\MainPage.g.i.cs
+C:\Users\30001192\source\repos\Assignment1\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\obj\x86\Debug\MainPage.g.cs
+C:\Users\30001192\source\repos\Assignment1\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\obj\x86\Debug\Map.g.i.cs
+C:\Users\30001192\source\repos\Assignment1\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\obj\x86\Debug\Map.g.cs
+C:\Users\30001192\source\repos\Assignment1\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\obj\x86\Debug\Prediction.g.i.cs
+C:\Users\30001192\source\repos\Assignment1\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\obj\x86\Debug\Prediction.g.cs
+C:\Users\30001192\source\repos\Assignment1\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\obj\x86\Debug\Slot.g.i.cs
+C:\Users\30001192\source\repos\Assignment1\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\obj\x86\Debug\Slot.g.cs
+C:\Users\30001192\source\repos\Assignment1\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\obj\x86\Debug\XamlTypeInfo.g.cs
+C:\Users\30001192\source\repos\Assignment1\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\obj\x86\Debug\App.xaml
+C:\Users\30001192\source\repos\Assignment1\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\obj\x86\Debug\Dice.xaml
+C:\Users\30001192\source\repos\Assignment1\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\obj\x86\Debug\Drinks.xaml
+C:\Users\30001192\source\repos\Assignment1\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\obj\x86\Debug\Lotto.xaml
+C:\Users\30001192\source\repos\Assignment1\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\obj\x86\Debug\MainPage.xaml
+C:\Users\30001192\source\repos\Assignment1\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\obj\x86\Debug\Map.xaml
+C:\Users\30001192\source\repos\Assignment1\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\obj\x86\Debug\Prediction.xaml
+C:\Users\30001192\source\repos\Assignment1\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\obj\x86\Debug\Slot.xaml
+C:\Users\30001192\source\repos\Assignment1\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\obj\x86\Debug\App.xbf
+C:\Users\30001192\source\repos\Assignment1\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\obj\x86\Debug\Dice.xbf
+C:\Users\30001192\source\repos\Assignment1\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\obj\x86\Debug\Drinks.xbf
+C:\Users\30001192\source\repos\Assignment1\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\obj\x86\Debug\Lotto.xbf
+C:\Users\30001192\source\repos\Assignment1\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\obj\x86\Debug\MainPage.xbf
+C:\Users\30001192\source\repos\Assignment1\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\obj\x86\Debug\Map.xbf
+C:\Users\30001192\source\repos\Assignment1\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\obj\x86\Debug\Prediction.xbf
+C:\Users\30001192\source\repos\Assignment1\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\obj\x86\Debug\Slot.xbf
+C:\Users\30001192\source\repos\Assignment1\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\obj\x86\Debug\XamlSaveStateFile.xml
+C:\Users\30001192\source\repos\Assignment1\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\bin\x86\Debug\App.xbf
+C:\Users\30001192\source\repos\Assignment1\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\bin\x86\Debug\Dice.xbf
+C:\Users\30001192\source\repos\Assignment1\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\bin\x86\Debug\Drinks.xbf
+C:\Users\30001192\source\repos\Assignment1\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\bin\x86\Debug\Lotto.xbf
+C:\Users\30001192\source\repos\Assignment1\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\bin\x86\Debug\MainPage.xbf
+C:\Users\30001192\source\repos\Assignment1\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\bin\x86\Debug\Map.xbf
+C:\Users\30001192\source\repos\Assignment1\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\bin\x86\Debug\Prediction.xbf
+C:\Users\30001192\source\repos\Assignment1\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\bin\x86\Debug\Slot.xbf
+C:\Users\30001192\source\repos\Assignment1\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\bin\x86\Debug\5Games_Ass1.xr.xml
+C:\Users\30001192\source\repos\Assignment1\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\bin\x86\Debug\5Games_Ass1.exe
+C:\Users\30001192\source\repos\Assignment1\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\bin\x86\Debug\5Games_Ass1.pdb
+C:\Users\30001192\source\repos\Assignment1\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\bin\x86\Debug\resources.pri
+C:\Users\30001192\source\repos\Assignment1\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\bin\x86\Debug\AppxManifest.xml
+C:\Users\30001192\source\repos\Assignment1\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\bin\x86\Debug\Core\5Games_Ass1.exe
+C:\Users\30001192\source\repos\Assignment1\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\bin\x86\Debug\Core\AppxManifest.xml
+C:\Users\30001192\source\repos\Assignment1\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\bin\x86\Debug\5Games_Ass1.build.appxrecipe
+C:\Users\30001192\source\repos\Assignment1\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\bin\x86\Debug\System.Runtime.dll
+C:\Users\30001192\source\repos\Assignment1\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\bin\x86\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\Users\30001192\source\repos\Assignment1\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\obj\x86\Debug\5Games_Ass1.csproj.CoreCompileInputs.cache
+C:\Users\30001192\source\repos\Assignment1\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\obj\x86\Debug\5Games_Ass1.csproj.CopyComplete
+C:\Users\30001192\source\repos\Assignment1\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\obj\x86\Debug\5Games_Ass1.exe
+C:\Users\30001192\source\repos\Assignment1\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\obj\x86\Debug\5Games_Ass1.pdb
+C:\Users\30001192\source\repos\Assignment1\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\obj\x86\Debug\ResourceHandlingTask.state
+C:\Users\30001192\source\repos\Assignment1\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\obj\x86\Debug\priconfig.xml
+C:\Users\30001192\source\repos\Assignment1\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\30001192\source\repos\Assignment1\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\obj\x86\Debug\unfiltered.layout.resfiles
+C:\Users\30001192\source\repos\Assignment1\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\30001192\source\repos\Assignment1\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\obj\x86\Debug\filtered.layout.resfiles
+C:\Users\30001192\source\repos\Assignment1\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\obj\x86\Debug\filtered.layout.resfiles.intermediate
+C:\Users\30001192\source\repos\Assignment1\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\obj\x86\Debug\excluded.layout.resfiles
+C:\Users\30001192\source\repos\Assignment1\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\obj\x86\Debug\excluded.layout.resfiles.intermediate
+C:\Users\30001192\source\repos\Assignment1\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\obj\x86\Debug\resources.resfiles
+C:\Users\30001192\source\repos\Assignment1\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\30001192\source\repos\Assignment1\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\obj\x86\Debug\pri.resfiles
+C:\Users\30001192\source\repos\Assignment1\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\30001192\source\repos\Assignment1\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\obj\x86\Debug\qualifiers.txt
+C:\Users\30001192\source\repos\Assignment1\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Users\30001192\source\repos\Assignment1\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\30001192\source\repos\Assignment1\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\obj\x86\Debug\ProjectArchitectures.txt
+C:\Users\30001192\source\repos\Assignment1\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_637112138540000000.json
+C:\Users\30001192\source\repos\Assignment1\Assignment1_JbLee(30001192)\5Games_Ass1\5Games_Ass1\obj\x86\Debug\5Games_Ass1.csprojAssemblyReference.cache
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\Assignment1\20210521\5Games_Ass1\5Games_Ass1\bin\x86\Debug\App.xbf
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\Assignment1\20210521\5Games_Ass1\5Games_Ass1\bin\x86\Debug\Dice.xbf
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\Assignment1\20210521\5Games_Ass1\5Games_Ass1\bin\x86\Debug\Drinks.xbf
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\Assignment1\20210521\5Games_Ass1\5Games_Ass1\bin\x86\Debug\Lotto.xbf
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\Assignment1\20210521\5Games_Ass1\5Games_Ass1\bin\x86\Debug\MainPage.xbf
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\Assignment1\20210521\5Games_Ass1\5Games_Ass1\bin\x86\Debug\Map.xbf
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\Assignment1\20210521\5Games_Ass1\5Games_Ass1\bin\x86\Debug\Prediction.xbf
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\Assignment1\20210521\5Games_Ass1\5Games_Ass1\bin\x86\Debug\Slot.xbf
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\Assignment1\20210521\5Games_Ass1\5Games_Ass1\bin\x86\Debug\5Games_Ass1.xr.xml
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\Assignment1\20210521\5Games_Ass1\5Games_Ass1\bin\x86\Debug\5Games_Ass1.exe
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\Assignment1\20210521\5Games_Ass1\5Games_Ass1\bin\x86\Debug\5Games_Ass1.pdb
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\Assignment1\20210521\5Games_Ass1\5Games_Ass1\bin\x86\Debug\resources.pri
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\Assignment1\20210521\5Games_Ass1\5Games_Ass1\bin\x86\Debug\AppxManifest.xml
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\Assignment1\20210521\5Games_Ass1\5Games_Ass1\bin\x86\Debug\Core\5Games_Ass1.exe
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\Assignment1\20210521\5Games_Ass1\5Games_Ass1\bin\x86\Debug\Core\AppxManifest.xml
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\Assignment1\20210521\5Games_Ass1\5Games_Ass1\bin\x86\Debug\5Games_Ass1.build.appxrecipe
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\Assignment1\20210521\5Games_Ass1\5Games_Ass1\bin\x86\Debug\System.Runtime.dll
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\Assignment1\20210521\5Games_Ass1\5Games_Ass1\bin\x86\Debug\Microsoft.UI.Xaml.Markup.winmd
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\Assignment1\20210521\5Games_Ass1\5Games_Ass1\obj\x86\Debug\5Games_Ass1.csprojAssemblyReference.cache
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\Assignment1\20210521\5Games_Ass1\5Games_Ass1\obj\x86\Debug\App.g.i.cs
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\Assignment1\20210521\5Games_Ass1\5Games_Ass1\obj\x86\Debug\App.g.cs
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\Assignment1\20210521\5Games_Ass1\5Games_Ass1\obj\x86\Debug\Dice.g.i.cs
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\Assignment1\20210521\5Games_Ass1\5Games_Ass1\obj\x86\Debug\Dice.g.cs
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\Assignment1\20210521\5Games_Ass1\5Games_Ass1\obj\x86\Debug\Drinks.g.i.cs
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\Assignment1\20210521\5Games_Ass1\5Games_Ass1\obj\x86\Debug\Drinks.g.cs
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\Assignment1\20210521\5Games_Ass1\5Games_Ass1\obj\x86\Debug\Lotto.g.i.cs
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\Assignment1\20210521\5Games_Ass1\5Games_Ass1\obj\x86\Debug\Lotto.g.cs
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\Assignment1\20210521\5Games_Ass1\5Games_Ass1\obj\x86\Debug\MainPage.g.i.cs
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\Assignment1\20210521\5Games_Ass1\5Games_Ass1\obj\x86\Debug\MainPage.g.cs
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\Assignment1\20210521\5Games_Ass1\5Games_Ass1\obj\x86\Debug\Map.g.i.cs
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\Assignment1\20210521\5Games_Ass1\5Games_Ass1\obj\x86\Debug\Map.g.cs
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\Assignment1\20210521\5Games_Ass1\5Games_Ass1\obj\x86\Debug\Prediction.g.i.cs
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\Assignment1\20210521\5Games_Ass1\5Games_Ass1\obj\x86\Debug\Prediction.g.cs
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\Assignment1\20210521\5Games_Ass1\5Games_Ass1\obj\x86\Debug\Slot.g.i.cs
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\Assignment1\20210521\5Games_Ass1\5Games_Ass1\obj\x86\Debug\Slot.g.cs
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\Assignment1\20210521\5Games_Ass1\5Games_Ass1\obj\x86\Debug\XamlTypeInfo.g.cs
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\Assignment1\20210521\5Games_Ass1\5Games_Ass1\obj\x86\Debug\App.xaml
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\Assignment1\20210521\5Games_Ass1\5Games_Ass1\obj\x86\Debug\Dice.xaml
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\Assignment1\20210521\5Games_Ass1\5Games_Ass1\obj\x86\Debug\Drinks.xaml
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\Assignment1\20210521\5Games_Ass1\5Games_Ass1\obj\x86\Debug\Lotto.xaml
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\Assignment1\20210521\5Games_Ass1\5Games_Ass1\obj\x86\Debug\MainPage.xaml
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\Assignment1\20210521\5Games_Ass1\5Games_Ass1\obj\x86\Debug\Map.xaml
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\Assignment1\20210521\5Games_Ass1\5Games_Ass1\obj\x86\Debug\Prediction.xaml
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\Assignment1\20210521\5Games_Ass1\5Games_Ass1\obj\x86\Debug\Slot.xaml
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\Assignment1\20210521\5Games_Ass1\5Games_Ass1\obj\x86\Debug\App.xbf
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\Assignment1\20210521\5Games_Ass1\5Games_Ass1\obj\x86\Debug\Dice.xbf
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\Assignment1\20210521\5Games_Ass1\5Games_Ass1\obj\x86\Debug\Drinks.xbf
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\Assignment1\20210521\5Games_Ass1\5Games_Ass1\obj\x86\Debug\Lotto.xbf
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\Assignment1\20210521\5Games_Ass1\5Games_Ass1\obj\x86\Debug\MainPage.xbf
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\Assignment1\20210521\5Games_Ass1\5Games_Ass1\obj\x86\Debug\Map.xbf
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\Assignment1\20210521\5Games_Ass1\5Games_Ass1\obj\x86\Debug\Prediction.xbf
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\Assignment1\20210521\5Games_Ass1\5Games_Ass1\obj\x86\Debug\Slot.xbf
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\Assignment1\20210521\5Games_Ass1\5Games_Ass1\obj\x86\Debug\XamlSaveStateFile.xml
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\Assignment1\20210521\5Games_Ass1\5Games_Ass1\obj\x86\Debug\5Games_Ass1.csproj.CoreCompileInputs.cache
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\Assignment1\20210521\5Games_Ass1\5Games_Ass1\obj\x86\Debug\5Games_Ass1.csproj.CopyComplete
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\Assignment1\20210521\5Games_Ass1\5Games_Ass1\obj\x86\Debug\5Games_Ass1.exe
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\Assignment1\20210521\5Games_Ass1\5Games_Ass1\obj\x86\Debug\5Games_Ass1.pdb
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\Assignment1\20210521\5Games_Ass1\5Games_Ass1\obj\x86\Debug\ResourceHandlingTask.state
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\Assignment1\20210521\5Games_Ass1\5Games_Ass1\obj\x86\Debug\priconfig.xml
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\Assignment1\20210521\5Games_Ass1\5Games_Ass1\obj\x86\Debug\priconfig.xml.intermediate
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\Assignment1\20210521\5Games_Ass1\5Games_Ass1\obj\x86\Debug\unfiltered.layout.resfiles
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\Assignment1\20210521\5Games_Ass1\5Games_Ass1\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\Assignment1\20210521\5Games_Ass1\5Games_Ass1\obj\x86\Debug\filtered.layout.resfiles
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\Assignment1\20210521\5Games_Ass1\5Games_Ass1\obj\x86\Debug\filtered.layout.resfiles.intermediate
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\Assignment1\20210521\5Games_Ass1\5Games_Ass1\obj\x86\Debug\excluded.layout.resfiles
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\Assignment1\20210521\5Games_Ass1\5Games_Ass1\obj\x86\Debug\excluded.layout.resfiles.intermediate
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\Assignment1\20210521\5Games_Ass1\5Games_Ass1\obj\x86\Debug\resources.resfiles
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\Assignment1\20210521\5Games_Ass1\5Games_Ass1\obj\x86\Debug\resources.resfiles.intermediate
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\Assignment1\20210521\5Games_Ass1\5Games_Ass1\obj\x86\Debug\pri.resfiles
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\Assignment1\20210521\5Games_Ass1\5Games_Ass1\obj\x86\Debug\pri.resfiles.intermediate
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\Assignment1\20210521\5Games_Ass1\5Games_Ass1\obj\x86\Debug\qualifiers.txt
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\Assignment1\20210521\5Games_Ass1\5Games_Ass1\obj\x86\Debug\qualifiers.txt.intermediate
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\Assignment1\20210521\5Games_Ass1\5Games_Ass1\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\Assignment1\20210521\5Games_Ass1\5Games_Ass1\obj\x86\Debug\ProjectArchitectures.txt
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\Assignment1\20210521\5Games_Ass1\5Games_Ass1\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_637112138540000000.json
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\Assignment1\20210521\5Games_Ass1\5Games_Ass1\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_637424347200000000.json
+\\FS\STUDENT$\30001192\Desktop\20210527\5Games_Ass1\5Games_Ass1\bin\x86\Debug\App.xbf
+\\FS\STUDENT$\30001192\Desktop\20210527\5Games_Ass1\5Games_Ass1\bin\x86\Debug\Dice.xbf
+\\FS\STUDENT$\30001192\Desktop\20210527\5Games_Ass1\5Games_Ass1\bin\x86\Debug\Drinks.xbf
+\\FS\STUDENT$\30001192\Desktop\20210527\5Games_Ass1\5Games_Ass1\bin\x86\Debug\Lotto.xbf
+\\FS\STUDENT$\30001192\Desktop\20210527\5Games_Ass1\5Games_Ass1\bin\x86\Debug\MainPage.xbf
+\\FS\STUDENT$\30001192\Desktop\20210527\5Games_Ass1\5Games_Ass1\bin\x86\Debug\Map.xbf
+\\FS\STUDENT$\30001192\Desktop\20210527\5Games_Ass1\5Games_Ass1\bin\x86\Debug\Prediction.xbf
+\\FS\STUDENT$\30001192\Desktop\20210527\5Games_Ass1\5Games_Ass1\bin\x86\Debug\Slot.xbf
+\\FS\STUDENT$\30001192\Desktop\20210527\5Games_Ass1\5Games_Ass1\bin\x86\Debug\5Games_Ass1.xr.xml
+\\FS\STUDENT$\30001192\Desktop\20210527\5Games_Ass1\5Games_Ass1\bin\x86\Debug\5Games_Ass1.exe
+\\FS\STUDENT$\30001192\Desktop\20210527\5Games_Ass1\5Games_Ass1\bin\x86\Debug\5Games_Ass1.pdb
+\\FS\STUDENT$\30001192\Desktop\20210527\5Games_Ass1\5Games_Ass1\bin\x86\Debug\resources.pri
+\\FS\STUDENT$\30001192\Desktop\20210527\5Games_Ass1\5Games_Ass1\bin\x86\Debug\AppxManifest.xml
+\\FS\STUDENT$\30001192\Desktop\20210527\5Games_Ass1\5Games_Ass1\bin\x86\Debug\Core\5Games_Ass1.exe
+\\FS\STUDENT$\30001192\Desktop\20210527\5Games_Ass1\5Games_Ass1\bin\x86\Debug\Core\AppxManifest.xml
+\\FS\STUDENT$\30001192\Desktop\20210527\5Games_Ass1\5Games_Ass1\bin\x86\Debug\5Games_Ass1.build.appxrecipe
+\\FS\STUDENT$\30001192\Desktop\20210527\5Games_Ass1\5Games_Ass1\bin\x86\Debug\System.Runtime.dll
+\\FS\STUDENT$\30001192\Desktop\20210527\5Games_Ass1\5Games_Ass1\bin\x86\Debug\Microsoft.UI.Xaml.Markup.winmd
+\\FS\STUDENT$\30001192\Desktop\20210527\5Games_Ass1\5Games_Ass1\obj\x86\Debug\5Games_Ass1.csprojAssemblyReference.cache
+\\FS\STUDENT$\30001192\Desktop\20210527\5Games_Ass1\5Games_Ass1\obj\x86\Debug\App.g.i.cs
+\\FS\STUDENT$\30001192\Desktop\20210527\5Games_Ass1\5Games_Ass1\obj\x86\Debug\App.g.cs
+\\FS\STUDENT$\30001192\Desktop\20210527\5Games_Ass1\5Games_Ass1\obj\x86\Debug\Dice.g.i.cs
+\\FS\STUDENT$\30001192\Desktop\20210527\5Games_Ass1\5Games_Ass1\obj\x86\Debug\Dice.g.cs
+\\FS\STUDENT$\30001192\Desktop\20210527\5Games_Ass1\5Games_Ass1\obj\x86\Debug\Drinks.g.i.cs
+\\FS\STUDENT$\30001192\Desktop\20210527\5Games_Ass1\5Games_Ass1\obj\x86\Debug\Drinks.g.cs
+\\FS\STUDENT$\30001192\Desktop\20210527\5Games_Ass1\5Games_Ass1\obj\x86\Debug\Lotto.g.i.cs
+\\FS\STUDENT$\30001192\Desktop\20210527\5Games_Ass1\5Games_Ass1\obj\x86\Debug\Lotto.g.cs
+\\FS\STUDENT$\30001192\Desktop\20210527\5Games_Ass1\5Games_Ass1\obj\x86\Debug\MainPage.g.i.cs
+\\FS\STUDENT$\30001192\Desktop\20210527\5Games_Ass1\5Games_Ass1\obj\x86\Debug\MainPage.g.cs
+\\FS\STUDENT$\30001192\Desktop\20210527\5Games_Ass1\5Games_Ass1\obj\x86\Debug\Map.g.i.cs
+\\FS\STUDENT$\30001192\Desktop\20210527\5Games_Ass1\5Games_Ass1\obj\x86\Debug\Map.g.cs
+\\FS\STUDENT$\30001192\Desktop\20210527\5Games_Ass1\5Games_Ass1\obj\x86\Debug\Prediction.g.i.cs
+\\FS\STUDENT$\30001192\Desktop\20210527\5Games_Ass1\5Games_Ass1\obj\x86\Debug\Prediction.g.cs
+\\FS\STUDENT$\30001192\Desktop\20210527\5Games_Ass1\5Games_Ass1\obj\x86\Debug\Slot.g.i.cs
+\\FS\STUDENT$\30001192\Desktop\20210527\5Games_Ass1\5Games_Ass1\obj\x86\Debug\Slot.g.cs
+\\FS\STUDENT$\30001192\Desktop\20210527\5Games_Ass1\5Games_Ass1\obj\x86\Debug\XamlTypeInfo.g.cs
+\\FS\STUDENT$\30001192\Desktop\20210527\5Games_Ass1\5Games_Ass1\obj\x86\Debug\App.xaml
+\\FS\STUDENT$\30001192\Desktop\20210527\5Games_Ass1\5Games_Ass1\obj\x86\Debug\Dice.xaml
+\\FS\STUDENT$\30001192\Desktop\20210527\5Games_Ass1\5Games_Ass1\obj\x86\Debug\MainPage.xaml
+\\FS\STUDENT$\30001192\Desktop\20210527\5Games_Ass1\5Games_Ass1\obj\x86\Debug\Map.xaml
+\\FS\STUDENT$\30001192\Desktop\20210527\5Games_Ass1\5Games_Ass1\obj\x86\Debug\Drinks.xaml
+\\FS\STUDENT$\30001192\Desktop\20210527\5Games_Ass1\5Games_Ass1\obj\x86\Debug\Lotto.xaml
+\\FS\STUDENT$\30001192\Desktop\20210527\5Games_Ass1\5Games_Ass1\obj\x86\Debug\Prediction.xaml
+\\FS\STUDENT$\30001192\Desktop\20210527\5Games_Ass1\5Games_Ass1\obj\x86\Debug\Slot.xaml
+\\FS\STUDENT$\30001192\Desktop\20210527\5Games_Ass1\5Games_Ass1\obj\x86\Debug\App.xbf
+\\FS\STUDENT$\30001192\Desktop\20210527\5Games_Ass1\5Games_Ass1\obj\x86\Debug\Dice.xbf
+\\FS\STUDENT$\30001192\Desktop\20210527\5Games_Ass1\5Games_Ass1\obj\x86\Debug\MainPage.xbf
+\\FS\STUDENT$\30001192\Desktop\20210527\5Games_Ass1\5Games_Ass1\obj\x86\Debug\Map.xbf
+\\FS\STUDENT$\30001192\Desktop\20210527\5Games_Ass1\5Games_Ass1\obj\x86\Debug\Drinks.xbf
+\\FS\STUDENT$\30001192\Desktop\20210527\5Games_Ass1\5Games_Ass1\obj\x86\Debug\Lotto.xbf
+\\FS\STUDENT$\30001192\Desktop\20210527\5Games_Ass1\5Games_Ass1\obj\x86\Debug\Prediction.xbf
+\\FS\STUDENT$\30001192\Desktop\20210527\5Games_Ass1\5Games_Ass1\obj\x86\Debug\Slot.xbf
+\\FS\STUDENT$\30001192\Desktop\20210527\5Games_Ass1\5Games_Ass1\obj\x86\Debug\XamlSaveStateFile.xml
+\\FS\STUDENT$\30001192\Desktop\20210527\5Games_Ass1\5Games_Ass1\obj\x86\Debug\5Games_Ass1.csproj.CoreCompileInputs.cache
+\\FS\STUDENT$\30001192\Desktop\20210527\5Games_Ass1\5Games_Ass1\obj\x86\Debug\5Games_Ass1.csproj.CopyComplete
+\\FS\STUDENT$\30001192\Desktop\20210527\5Games_Ass1\5Games_Ass1\obj\x86\Debug\5Games_Ass1.exe
+\\FS\STUDENT$\30001192\Desktop\20210527\5Games_Ass1\5Games_Ass1\obj\x86\Debug\5Games_Ass1.pdb
+\\FS\STUDENT$\30001192\Desktop\20210527\5Games_Ass1\5Games_Ass1\obj\x86\Debug\ResourceHandlingTask.state
+\\FS\STUDENT$\30001192\Desktop\20210527\5Games_Ass1\5Games_Ass1\obj\x86\Debug\priconfig.xml
+\\FS\STUDENT$\30001192\Desktop\20210527\5Games_Ass1\5Games_Ass1\obj\x86\Debug\priconfig.xml.intermediate
+\\FS\STUDENT$\30001192\Desktop\20210527\5Games_Ass1\5Games_Ass1\obj\x86\Debug\unfiltered.layout.resfiles
+\\FS\STUDENT$\30001192\Desktop\20210527\5Games_Ass1\5Games_Ass1\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+\\FS\STUDENT$\30001192\Desktop\20210527\5Games_Ass1\5Games_Ass1\obj\x86\Debug\filtered.layout.resfiles
+\\FS\STUDENT$\30001192\Desktop\20210527\5Games_Ass1\5Games_Ass1\obj\x86\Debug\filtered.layout.resfiles.intermediate
+\\FS\STUDENT$\30001192\Desktop\20210527\5Games_Ass1\5Games_Ass1\obj\x86\Debug\excluded.layout.resfiles
+\\FS\STUDENT$\30001192\Desktop\20210527\5Games_Ass1\5Games_Ass1\obj\x86\Debug\excluded.layout.resfiles.intermediate
+\\FS\STUDENT$\30001192\Desktop\20210527\5Games_Ass1\5Games_Ass1\obj\x86\Debug\resources.resfiles
+\\FS\STUDENT$\30001192\Desktop\20210527\5Games_Ass1\5Games_Ass1\obj\x86\Debug\resources.resfiles.intermediate
+\\FS\STUDENT$\30001192\Desktop\20210527\5Games_Ass1\5Games_Ass1\obj\x86\Debug\pri.resfiles
+\\FS\STUDENT$\30001192\Desktop\20210527\5Games_Ass1\5Games_Ass1\obj\x86\Debug\pri.resfiles.intermediate
+\\FS\STUDENT$\30001192\Desktop\20210527\5Games_Ass1\5Games_Ass1\obj\x86\Debug\qualifiers.txt
+\\FS\STUDENT$\30001192\Desktop\20210527\5Games_Ass1\5Games_Ass1\obj\x86\Debug\qualifiers.txt.intermediate
+\\FS\STUDENT$\30001192\Desktop\20210527\5Games_Ass1\5Games_Ass1\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+\\FS\STUDENT$\30001192\Desktop\20210527\5Games_Ass1\5Games_Ass1\obj\x86\Debug\ProjectArchitectures.txt
+\\FS\STUDENT$\30001192\Desktop\20210527\5Games_Ass1\5Games_Ass1\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_637112138540000000.json
+\\FS\STUDENT$\30001192\Desktop\20210527\5Games_Ass1\5Games_Ass1\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_637424347200000000.json
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\20210528\5Games_Ass1\5Games_Ass1\bin\x86\Debug\App.xbf
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\20210528\5Games_Ass1\5Games_Ass1\bin\x86\Debug\Dice.xbf
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\20210528\5Games_Ass1\5Games_Ass1\bin\x86\Debug\Drinks.xbf
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\20210528\5Games_Ass1\5Games_Ass1\bin\x86\Debug\Lotto.xbf
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\20210528\5Games_Ass1\5Games_Ass1\bin\x86\Debug\MainPage.xbf
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\20210528\5Games_Ass1\5Games_Ass1\bin\x86\Debug\Map.xbf
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\20210528\5Games_Ass1\5Games_Ass1\bin\x86\Debug\Prediction.xbf
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\20210528\5Games_Ass1\5Games_Ass1\bin\x86\Debug\Slot.xbf
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\20210528\5Games_Ass1\5Games_Ass1\bin\x86\Debug\5Games_Ass1.xr.xml
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\20210528\5Games_Ass1\5Games_Ass1\bin\x86\Debug\5Games_Ass1.exe
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\20210528\5Games_Ass1\5Games_Ass1\bin\x86\Debug\5Games_Ass1.pdb
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\20210528\5Games_Ass1\5Games_Ass1\bin\x86\Debug\resources.pri
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\20210528\5Games_Ass1\5Games_Ass1\bin\x86\Debug\AppxManifest.xml
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\20210528\5Games_Ass1\5Games_Ass1\bin\x86\Debug\Core\5Games_Ass1.exe
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\20210528\5Games_Ass1\5Games_Ass1\bin\x86\Debug\Core\AppxManifest.xml
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\20210528\5Games_Ass1\5Games_Ass1\bin\x86\Debug\System.Runtime.dll
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\20210528\5Games_Ass1\5Games_Ass1\bin\x86\Debug\Microsoft.UI.Xaml.Markup.winmd
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\20210528\5Games_Ass1\5Games_Ass1\obj\x86\Debug\App.g.i.cs
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\20210528\5Games_Ass1\5Games_Ass1\obj\x86\Debug\App.g.cs
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\20210528\5Games_Ass1\5Games_Ass1\obj\x86\Debug\Dice.g.i.cs
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\20210528\5Games_Ass1\5Games_Ass1\obj\x86\Debug\Dice.g.cs
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\20210528\5Games_Ass1\5Games_Ass1\obj\x86\Debug\Drinks.g.i.cs
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\20210528\5Games_Ass1\5Games_Ass1\obj\x86\Debug\Drinks.g.cs
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\20210528\5Games_Ass1\5Games_Ass1\obj\x86\Debug\Lotto.g.i.cs
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\20210528\5Games_Ass1\5Games_Ass1\obj\x86\Debug\Lotto.g.cs
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\20210528\5Games_Ass1\5Games_Ass1\obj\x86\Debug\MainPage.g.i.cs
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\20210528\5Games_Ass1\5Games_Ass1\obj\x86\Debug\MainPage.g.cs
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\20210528\5Games_Ass1\5Games_Ass1\obj\x86\Debug\Map.g.i.cs
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\20210528\5Games_Ass1\5Games_Ass1\obj\x86\Debug\Map.g.cs
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\20210528\5Games_Ass1\5Games_Ass1\obj\x86\Debug\Prediction.g.i.cs
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\20210528\5Games_Ass1\5Games_Ass1\obj\x86\Debug\Prediction.g.cs
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\20210528\5Games_Ass1\5Games_Ass1\obj\x86\Debug\Slot.g.i.cs
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\20210528\5Games_Ass1\5Games_Ass1\obj\x86\Debug\Slot.g.cs
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\20210528\5Games_Ass1\5Games_Ass1\obj\x86\Debug\XamlTypeInfo.g.cs
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\20210528\5Games_Ass1\5Games_Ass1\obj\x86\Debug\App.xaml
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\20210528\5Games_Ass1\5Games_Ass1\obj\x86\Debug\Dice.xaml
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\20210528\5Games_Ass1\5Games_Ass1\obj\x86\Debug\Drinks.xaml
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\20210528\5Games_Ass1\5Games_Ass1\obj\x86\Debug\Lotto.xaml
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\20210528\5Games_Ass1\5Games_Ass1\obj\x86\Debug\MainPage.xaml
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\20210528\5Games_Ass1\5Games_Ass1\obj\x86\Debug\Map.xaml
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\20210528\5Games_Ass1\5Games_Ass1\obj\x86\Debug\Prediction.xaml
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\20210528\5Games_Ass1\5Games_Ass1\obj\x86\Debug\Slot.xaml
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\20210528\5Games_Ass1\5Games_Ass1\obj\x86\Debug\App.xbf
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\20210528\5Games_Ass1\5Games_Ass1\obj\x86\Debug\Dice.xbf
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\20210528\5Games_Ass1\5Games_Ass1\obj\x86\Debug\Drinks.xbf
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\20210528\5Games_Ass1\5Games_Ass1\obj\x86\Debug\Lotto.xbf
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\20210528\5Games_Ass1\5Games_Ass1\obj\x86\Debug\MainPage.xbf
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\20210528\5Games_Ass1\5Games_Ass1\obj\x86\Debug\Map.xbf
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\20210528\5Games_Ass1\5Games_Ass1\obj\x86\Debug\Prediction.xbf
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\20210528\5Games_Ass1\5Games_Ass1\obj\x86\Debug\Slot.xbf
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\20210528\5Games_Ass1\5Games_Ass1\obj\x86\Debug\XamlSaveStateFile.xml
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\20210528\5Games_Ass1\5Games_Ass1\obj\x86\Debug\5Games_Ass1.csproj.CoreCompileInputs.cache
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\20210528\5Games_Ass1\5Games_Ass1\obj\x86\Debug\5Games_Ass1.csproj.CopyComplete
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\20210528\5Games_Ass1\5Games_Ass1\obj\x86\Debug\5Games_Ass1.exe
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\20210528\5Games_Ass1\5Games_Ass1\obj\x86\Debug\5Games_Ass1.pdb
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\20210528\5Games_Ass1\5Games_Ass1\obj\x86\Debug\ResourceHandlingTask.state
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\20210528\5Games_Ass1\5Games_Ass1\obj\x86\Debug\priconfig.xml
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\20210528\5Games_Ass1\5Games_Ass1\obj\x86\Debug\priconfig.xml.intermediate
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\20210528\5Games_Ass1\5Games_Ass1\obj\x86\Debug\unfiltered.layout.resfiles
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\20210528\5Games_Ass1\5Games_Ass1\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\20210528\5Games_Ass1\5Games_Ass1\obj\x86\Debug\filtered.layout.resfiles
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\20210528\5Games_Ass1\5Games_Ass1\obj\x86\Debug\filtered.layout.resfiles.intermediate
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\20210528\5Games_Ass1\5Games_Ass1\obj\x86\Debug\excluded.layout.resfiles
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\20210528\5Games_Ass1\5Games_Ass1\obj\x86\Debug\excluded.layout.resfiles.intermediate
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\20210528\5Games_Ass1\5Games_Ass1\obj\x86\Debug\resources.resfiles
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\20210528\5Games_Ass1\5Games_Ass1\obj\x86\Debug\resources.resfiles.intermediate
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\20210528\5Games_Ass1\5Games_Ass1\obj\x86\Debug\pri.resfiles
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\20210528\5Games_Ass1\5Games_Ass1\obj\x86\Debug\pri.resfiles.intermediate
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\20210528\5Games_Ass1\5Games_Ass1\obj\x86\Debug\qualifiers.txt
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\20210528\5Games_Ass1\5Games_Ass1\obj\x86\Debug\qualifiers.txt.intermediate
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\20210528\5Games_Ass1\5Games_Ass1\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\20210528\5Games_Ass1\5Games_Ass1\obj\x86\Debug\ProjectArchitectures.txt
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\20210528\5Games_Ass1\5Games_Ass1\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_637424347200000000.json
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\20210528\5Games_Ass1\5Games_Ass1\bin\x86\Debug\5Games_Ass1.build.appxrecipe
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\20210528\5Games_Ass1\5Games_Ass1\obj\x86\Debug\5Games_Ass1.csprojAssemblyReference.cache
+\\FS\STUDENT$\30001192\Desktop\20210609\5Games_Ass1\5Games_Ass1\bin\x86\Debug\App.xbf
+\\FS\STUDENT$\30001192\Desktop\20210609\5Games_Ass1\5Games_Ass1\bin\x86\Debug\Dice.xbf
+\\FS\STUDENT$\30001192\Desktop\20210609\5Games_Ass1\5Games_Ass1\bin\x86\Debug\Drinks.xbf
+\\FS\STUDENT$\30001192\Desktop\20210609\5Games_Ass1\5Games_Ass1\bin\x86\Debug\Lotto.xbf
+\\FS\STUDENT$\30001192\Desktop\20210609\5Games_Ass1\5Games_Ass1\bin\x86\Debug\MainPage.xbf
+\\FS\STUDENT$\30001192\Desktop\20210609\5Games_Ass1\5Games_Ass1\bin\x86\Debug\Map.xbf
+\\FS\STUDENT$\30001192\Desktop\20210609\5Games_Ass1\5Games_Ass1\bin\x86\Debug\Prediction.xbf
+\\FS\STUDENT$\30001192\Desktop\20210609\5Games_Ass1\5Games_Ass1\bin\x86\Debug\Slot.xbf
+\\FS\STUDENT$\30001192\Desktop\20210609\5Games_Ass1\5Games_Ass1\bin\x86\Debug\5Games_Ass1.xr.xml
+\\FS\STUDENT$\30001192\Desktop\20210609\5Games_Ass1\5Games_Ass1\bin\x86\Debug\5Games_Ass1.exe
+\\FS\STUDENT$\30001192\Desktop\20210609\5Games_Ass1\5Games_Ass1\bin\x86\Debug\5Games_Ass1.pdb
+\\FS\STUDENT$\30001192\Desktop\20210609\5Games_Ass1\5Games_Ass1\bin\x86\Debug\resources.pri
+\\FS\STUDENT$\30001192\Desktop\20210609\5Games_Ass1\5Games_Ass1\bin\x86\Debug\AppxManifest.xml
+\\FS\STUDENT$\30001192\Desktop\20210609\5Games_Ass1\5Games_Ass1\bin\x86\Debug\Core\5Games_Ass1.exe
+\\FS\STUDENT$\30001192\Desktop\20210609\5Games_Ass1\5Games_Ass1\bin\x86\Debug\Core\AppxManifest.xml
+\\FS\STUDENT$\30001192\Desktop\20210609\5Games_Ass1\5Games_Ass1\bin\x86\Debug\5Games_Ass1.build.appxrecipe
+\\FS\STUDENT$\30001192\Desktop\20210609\5Games_Ass1\5Games_Ass1\bin\x86\Debug\System.Runtime.dll
+\\FS\STUDENT$\30001192\Desktop\20210609\5Games_Ass1\5Games_Ass1\bin\x86\Debug\Microsoft.UI.Xaml.Markup.winmd
+\\FS\STUDENT$\30001192\Desktop\20210609\5Games_Ass1\5Games_Ass1\obj\x86\Debug\5Games_Ass1.csprojAssemblyReference.cache
+\\FS\STUDENT$\30001192\Desktop\20210609\5Games_Ass1\5Games_Ass1\obj\x86\Debug\App.g.i.cs
+\\FS\STUDENT$\30001192\Desktop\20210609\5Games_Ass1\5Games_Ass1\obj\x86\Debug\App.g.cs
+\\FS\STUDENT$\30001192\Desktop\20210609\5Games_Ass1\5Games_Ass1\obj\x86\Debug\Dice.g.i.cs
+\\FS\STUDENT$\30001192\Desktop\20210609\5Games_Ass1\5Games_Ass1\obj\x86\Debug\Dice.g.cs
+\\FS\STUDENT$\30001192\Desktop\20210609\5Games_Ass1\5Games_Ass1\obj\x86\Debug\Drinks.g.i.cs
+\\FS\STUDENT$\30001192\Desktop\20210609\5Games_Ass1\5Games_Ass1\obj\x86\Debug\Drinks.g.cs
+\\FS\STUDENT$\30001192\Desktop\20210609\5Games_Ass1\5Games_Ass1\obj\x86\Debug\Lotto.g.i.cs
+\\FS\STUDENT$\30001192\Desktop\20210609\5Games_Ass1\5Games_Ass1\obj\x86\Debug\Lotto.g.cs
+\\FS\STUDENT$\30001192\Desktop\20210609\5Games_Ass1\5Games_Ass1\obj\x86\Debug\MainPage.g.i.cs
+\\FS\STUDENT$\30001192\Desktop\20210609\5Games_Ass1\5Games_Ass1\obj\x86\Debug\MainPage.g.cs
+\\FS\STUDENT$\30001192\Desktop\20210609\5Games_Ass1\5Games_Ass1\obj\x86\Debug\Map.g.i.cs
+\\FS\STUDENT$\30001192\Desktop\20210609\5Games_Ass1\5Games_Ass1\obj\x86\Debug\Map.g.cs
+\\FS\STUDENT$\30001192\Desktop\20210609\5Games_Ass1\5Games_Ass1\obj\x86\Debug\Prediction.g.i.cs
+\\FS\STUDENT$\30001192\Desktop\20210609\5Games_Ass1\5Games_Ass1\obj\x86\Debug\Prediction.g.cs
+\\FS\STUDENT$\30001192\Desktop\20210609\5Games_Ass1\5Games_Ass1\obj\x86\Debug\Slot.g.i.cs
+\\FS\STUDENT$\30001192\Desktop\20210609\5Games_Ass1\5Games_Ass1\obj\x86\Debug\Slot.g.cs
+\\FS\STUDENT$\30001192\Desktop\20210609\5Games_Ass1\5Games_Ass1\obj\x86\Debug\XamlTypeInfo.g.cs
+\\FS\STUDENT$\30001192\Desktop\20210609\5Games_Ass1\5Games_Ass1\obj\x86\Debug\App.xaml
+\\FS\STUDENT$\30001192\Desktop\20210609\5Games_Ass1\5Games_Ass1\obj\x86\Debug\Map.xaml
+\\FS\STUDENT$\30001192\Desktop\20210609\5Games_Ass1\5Games_Ass1\obj\x86\Debug\Dice.xaml
+\\FS\STUDENT$\30001192\Desktop\20210609\5Games_Ass1\5Games_Ass1\obj\x86\Debug\Drinks.xaml
+\\FS\STUDENT$\30001192\Desktop\20210609\5Games_Ass1\5Games_Ass1\obj\x86\Debug\Lotto.xaml
+\\FS\STUDENT$\30001192\Desktop\20210609\5Games_Ass1\5Games_Ass1\obj\x86\Debug\MainPage.xaml
+\\FS\STUDENT$\30001192\Desktop\20210609\5Games_Ass1\5Games_Ass1\obj\x86\Debug\Prediction.xaml
+\\FS\STUDENT$\30001192\Desktop\20210609\5Games_Ass1\5Games_Ass1\obj\x86\Debug\Slot.xaml
+\\FS\STUDENT$\30001192\Desktop\20210609\5Games_Ass1\5Games_Ass1\obj\x86\Debug\App.xbf
+\\FS\STUDENT$\30001192\Desktop\20210609\5Games_Ass1\5Games_Ass1\obj\x86\Debug\Map.xbf
+\\FS\STUDENT$\30001192\Desktop\20210609\5Games_Ass1\5Games_Ass1\obj\x86\Debug\Dice.xbf
+\\FS\STUDENT$\30001192\Desktop\20210609\5Games_Ass1\5Games_Ass1\obj\x86\Debug\Drinks.xbf
+\\FS\STUDENT$\30001192\Desktop\20210609\5Games_Ass1\5Games_Ass1\obj\x86\Debug\Lotto.xbf
+\\FS\STUDENT$\30001192\Desktop\20210609\5Games_Ass1\5Games_Ass1\obj\x86\Debug\MainPage.xbf
+\\FS\STUDENT$\30001192\Desktop\20210609\5Games_Ass1\5Games_Ass1\obj\x86\Debug\Prediction.xbf
+\\FS\STUDENT$\30001192\Desktop\20210609\5Games_Ass1\5Games_Ass1\obj\x86\Debug\Slot.xbf
+\\FS\STUDENT$\30001192\Desktop\20210609\5Games_Ass1\5Games_Ass1\obj\x86\Debug\XamlSaveStateFile.xml
+\\FS\STUDENT$\30001192\Desktop\20210609\5Games_Ass1\5Games_Ass1\obj\x86\Debug\5Games_Ass1.csproj.CoreCompileInputs.cache
+\\FS\STUDENT$\30001192\Desktop\20210609\5Games_Ass1\5Games_Ass1\obj\x86\Debug\5Games_Ass1.csproj.CopyComplete
+\\FS\STUDENT$\30001192\Desktop\20210609\5Games_Ass1\5Games_Ass1\obj\x86\Debug\5Games_Ass1.exe
+\\FS\STUDENT$\30001192\Desktop\20210609\5Games_Ass1\5Games_Ass1\obj\x86\Debug\5Games_Ass1.pdb
+\\FS\STUDENT$\30001192\Desktop\20210609\5Games_Ass1\5Games_Ass1\obj\x86\Debug\ResourceHandlingTask.state
+\\FS\STUDENT$\30001192\Desktop\20210609\5Games_Ass1\5Games_Ass1\obj\x86\Debug\priconfig.xml
+\\FS\STUDENT$\30001192\Desktop\20210609\5Games_Ass1\5Games_Ass1\obj\x86\Debug\priconfig.xml.intermediate
+\\FS\STUDENT$\30001192\Desktop\20210609\5Games_Ass1\5Games_Ass1\obj\x86\Debug\unfiltered.layout.resfiles
+\\FS\STUDENT$\30001192\Desktop\20210609\5Games_Ass1\5Games_Ass1\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+\\FS\STUDENT$\30001192\Desktop\20210609\5Games_Ass1\5Games_Ass1\obj\x86\Debug\filtered.layout.resfiles
+\\FS\STUDENT$\30001192\Desktop\20210609\5Games_Ass1\5Games_Ass1\obj\x86\Debug\filtered.layout.resfiles.intermediate
+\\FS\STUDENT$\30001192\Desktop\20210609\5Games_Ass1\5Games_Ass1\obj\x86\Debug\excluded.layout.resfiles
+\\FS\STUDENT$\30001192\Desktop\20210609\5Games_Ass1\5Games_Ass1\obj\x86\Debug\excluded.layout.resfiles.intermediate
+\\FS\STUDENT$\30001192\Desktop\20210609\5Games_Ass1\5Games_Ass1\obj\x86\Debug\resources.resfiles
+\\FS\STUDENT$\30001192\Desktop\20210609\5Games_Ass1\5Games_Ass1\obj\x86\Debug\resources.resfiles.intermediate
+\\FS\STUDENT$\30001192\Desktop\20210609\5Games_Ass1\5Games_Ass1\obj\x86\Debug\pri.resfiles
+\\FS\STUDENT$\30001192\Desktop\20210609\5Games_Ass1\5Games_Ass1\obj\x86\Debug\pri.resfiles.intermediate
+\\FS\STUDENT$\30001192\Desktop\20210609\5Games_Ass1\5Games_Ass1\obj\x86\Debug\qualifiers.txt
+\\FS\STUDENT$\30001192\Desktop\20210609\5Games_Ass1\5Games_Ass1\obj\x86\Debug\qualifiers.txt.intermediate
+\\FS\STUDENT$\30001192\Desktop\20210609\5Games_Ass1\5Games_Ass1\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+\\FS\STUDENT$\30001192\Desktop\20210609\5Games_Ass1\5Games_Ass1\obj\x86\Debug\ProjectArchitectures.txt
+\\FS\STUDENT$\30001192\Desktop\20210609\5Games_Ass1\5Games_Ass1\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_637112138540000000.json
+\\FS\STUDENT$\30001192\Desktop\20210609\5Games_Ass1\5Games_Ass1\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_637424347200000000.json
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\20210610\5Games_Ass1\5Games_Ass1\bin\x86\Debug\App.xbf
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\20210610\5Games_Ass1\5Games_Ass1\bin\x86\Debug\Dice.xbf
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\20210610\5Games_Ass1\5Games_Ass1\bin\x86\Debug\Drinks.xbf
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\20210610\5Games_Ass1\5Games_Ass1\bin\x86\Debug\Lotto.xbf
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\20210610\5Games_Ass1\5Games_Ass1\bin\x86\Debug\MainPage.xbf
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\20210610\5Games_Ass1\5Games_Ass1\bin\x86\Debug\Map.xbf
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\20210610\5Games_Ass1\5Games_Ass1\bin\x86\Debug\Prediction.xbf
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\20210610\5Games_Ass1\5Games_Ass1\bin\x86\Debug\Slot.xbf
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\20210610\5Games_Ass1\5Games_Ass1\bin\x86\Debug\5Games_Ass1.xr.xml
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\20210610\5Games_Ass1\5Games_Ass1\bin\x86\Debug\5Games_Ass1.exe
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\20210610\5Games_Ass1\5Games_Ass1\bin\x86\Debug\5Games_Ass1.pdb
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\20210610\5Games_Ass1\5Games_Ass1\bin\x86\Debug\resources.pri
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\20210610\5Games_Ass1\5Games_Ass1\bin\x86\Debug\AppxManifest.xml
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\20210610\5Games_Ass1\5Games_Ass1\bin\x86\Debug\Core\5Games_Ass1.exe
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\20210610\5Games_Ass1\5Games_Ass1\bin\x86\Debug\Core\AppxManifest.xml
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\20210610\5Games_Ass1\5Games_Ass1\bin\x86\Debug\5Games_Ass1.build.appxrecipe
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\20210610\5Games_Ass1\5Games_Ass1\bin\x86\Debug\System.Runtime.dll
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\20210610\5Games_Ass1\5Games_Ass1\bin\x86\Debug\Microsoft.UI.Xaml.Markup.winmd
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\20210610\5Games_Ass1\5Games_Ass1\obj\x86\Debug\5Games_Ass1.csprojAssemblyReference.cache
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\20210610\5Games_Ass1\5Games_Ass1\obj\x86\Debug\App.g.i.cs
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\20210610\5Games_Ass1\5Games_Ass1\obj\x86\Debug\App.g.cs
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\20210610\5Games_Ass1\5Games_Ass1\obj\x86\Debug\Dice.g.i.cs
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\20210610\5Games_Ass1\5Games_Ass1\obj\x86\Debug\Dice.g.cs
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\20210610\5Games_Ass1\5Games_Ass1\obj\x86\Debug\Drinks.g.i.cs
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\20210610\5Games_Ass1\5Games_Ass1\obj\x86\Debug\Drinks.g.cs
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\20210610\5Games_Ass1\5Games_Ass1\obj\x86\Debug\Lotto.g.i.cs
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\20210610\5Games_Ass1\5Games_Ass1\obj\x86\Debug\Lotto.g.cs
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\20210610\5Games_Ass1\5Games_Ass1\obj\x86\Debug\MainPage.g.i.cs
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\20210610\5Games_Ass1\5Games_Ass1\obj\x86\Debug\MainPage.g.cs
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\20210610\5Games_Ass1\5Games_Ass1\obj\x86\Debug\Map.g.i.cs
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\20210610\5Games_Ass1\5Games_Ass1\obj\x86\Debug\Map.g.cs
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\20210610\5Games_Ass1\5Games_Ass1\obj\x86\Debug\Prediction.g.i.cs
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\20210610\5Games_Ass1\5Games_Ass1\obj\x86\Debug\Prediction.g.cs
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\20210610\5Games_Ass1\5Games_Ass1\obj\x86\Debug\Slot.g.i.cs
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\20210610\5Games_Ass1\5Games_Ass1\obj\x86\Debug\Slot.g.cs
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\20210610\5Games_Ass1\5Games_Ass1\obj\x86\Debug\XamlTypeInfo.g.cs
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\20210610\5Games_Ass1\5Games_Ass1\obj\x86\Debug\App.xaml
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\20210610\5Games_Ass1\5Games_Ass1\obj\x86\Debug\Dice.xaml
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\20210610\5Games_Ass1\5Games_Ass1\obj\x86\Debug\Drinks.xaml
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\20210610\5Games_Ass1\5Games_Ass1\obj\x86\Debug\Lotto.xaml
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\20210610\5Games_Ass1\5Games_Ass1\obj\x86\Debug\MainPage.xaml
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\20210610\5Games_Ass1\5Games_Ass1\obj\x86\Debug\Map.xaml
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\20210610\5Games_Ass1\5Games_Ass1\obj\x86\Debug\Prediction.xaml
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\20210610\5Games_Ass1\5Games_Ass1\obj\x86\Debug\Slot.xaml
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\20210610\5Games_Ass1\5Games_Ass1\obj\x86\Debug\App.xbf
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\20210610\5Games_Ass1\5Games_Ass1\obj\x86\Debug\Dice.xbf
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\20210610\5Games_Ass1\5Games_Ass1\obj\x86\Debug\Drinks.xbf
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\20210610\5Games_Ass1\5Games_Ass1\obj\x86\Debug\Lotto.xbf
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\20210610\5Games_Ass1\5Games_Ass1\obj\x86\Debug\MainPage.xbf
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\20210610\5Games_Ass1\5Games_Ass1\obj\x86\Debug\Map.xbf
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\20210610\5Games_Ass1\5Games_Ass1\obj\x86\Debug\Prediction.xbf
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\20210610\5Games_Ass1\5Games_Ass1\obj\x86\Debug\Slot.xbf
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\20210610\5Games_Ass1\5Games_Ass1\obj\x86\Debug\XamlSaveStateFile.xml
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\20210610\5Games_Ass1\5Games_Ass1\obj\x86\Debug\5Games_Ass1.csproj.CoreCompileInputs.cache
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\20210610\5Games_Ass1\5Games_Ass1\obj\x86\Debug\5Games_Ass1.csproj.CopyComplete
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\20210610\5Games_Ass1\5Games_Ass1\obj\x86\Debug\5Games_Ass1.exe
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\20210610\5Games_Ass1\5Games_Ass1\obj\x86\Debug\5Games_Ass1.pdb
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\20210610\5Games_Ass1\5Games_Ass1\obj\x86\Debug\ResourceHandlingTask.state
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\20210610\5Games_Ass1\5Games_Ass1\obj\x86\Debug\priconfig.xml
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\20210610\5Games_Ass1\5Games_Ass1\obj\x86\Debug\priconfig.xml.intermediate
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\20210610\5Games_Ass1\5Games_Ass1\obj\x86\Debug\unfiltered.layout.resfiles
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\20210610\5Games_Ass1\5Games_Ass1\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\20210610\5Games_Ass1\5Games_Ass1\obj\x86\Debug\filtered.layout.resfiles
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\20210610\5Games_Ass1\5Games_Ass1\obj\x86\Debug\filtered.layout.resfiles.intermediate
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\20210610\5Games_Ass1\5Games_Ass1\obj\x86\Debug\excluded.layout.resfiles
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\20210610\5Games_Ass1\5Games_Ass1\obj\x86\Debug\excluded.layout.resfiles.intermediate
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\20210610\5Games_Ass1\5Games_Ass1\obj\x86\Debug\resources.resfiles
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\20210610\5Games_Ass1\5Games_Ass1\obj\x86\Debug\resources.resfiles.intermediate
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\20210610\5Games_Ass1\5Games_Ass1\obj\x86\Debug\pri.resfiles
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\20210610\5Games_Ass1\5Games_Ass1\obj\x86\Debug\pri.resfiles.intermediate
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\20210610\5Games_Ass1\5Games_Ass1\obj\x86\Debug\qualifiers.txt
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\20210610\5Games_Ass1\5Games_Ass1\obj\x86\Debug\qualifiers.txt.intermediate
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\20210610\5Games_Ass1\5Games_Ass1\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\20210610\5Games_Ass1\5Games_Ass1\obj\x86\Debug\ProjectArchitectures.txt
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\20210610\5Games_Ass1\5Games_Ass1\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_637112138540000000.json
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\20210610\5Games_Ass1\5Games_Ass1\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_637424347200000000.json
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\bin\x86\Debug\App.xbf
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\bin\x86\Debug\Dice.xbf
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\bin\x86\Debug\Drinks.xbf
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\bin\x86\Debug\Lotto.xbf
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\bin\x86\Debug\MainPage.xbf
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\bin\x86\Debug\Map.xbf
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\bin\x86\Debug\Prediction.xbf
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\bin\x86\Debug\Slot.xbf
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\bin\x86\Debug\5Games_Ass1.xr.xml
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\bin\x86\Debug\5Games_Ass1.exe
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\bin\x86\Debug\5Games_Ass1.pdb
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\bin\x86\Debug\resources.pri
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\bin\x86\Debug\AppxManifest.xml
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\bin\x86\Debug\Core\5Games_Ass1.exe
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\bin\x86\Debug\Core\AppxManifest.xml
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\bin\x86\Debug\5Games_Ass1.build.appxrecipe
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\bin\x86\Debug\System.Runtime.dll
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\bin\x86\Debug\Microsoft.UI.Xaml.Markup.winmd
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\obj\x86\Debug\5Games_Ass1.csprojAssemblyReference.cache
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\obj\x86\Debug\App.g.i.cs
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\obj\x86\Debug\App.g.cs
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\obj\x86\Debug\Dice.g.i.cs
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\obj\x86\Debug\Dice.g.cs
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\obj\x86\Debug\Drinks.g.i.cs
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\obj\x86\Debug\Drinks.g.cs
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\obj\x86\Debug\Lotto.g.i.cs
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\obj\x86\Debug\Lotto.g.cs
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\obj\x86\Debug\MainPage.g.i.cs
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\obj\x86\Debug\MainPage.g.cs
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\obj\x86\Debug\Map.g.i.cs
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\obj\x86\Debug\Map.g.cs
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\obj\x86\Debug\Prediction.g.i.cs
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\obj\x86\Debug\Prediction.g.cs
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\obj\x86\Debug\Slot.g.i.cs
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\obj\x86\Debug\Slot.g.cs
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\obj\x86\Debug\XamlTypeInfo.g.cs
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\obj\x86\Debug\App.xaml
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\obj\x86\Debug\Dice.xaml
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\obj\x86\Debug\Drinks.xaml
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\obj\x86\Debug\Lotto.xaml
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\obj\x86\Debug\MainPage.xaml
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\obj\x86\Debug\Map.xaml
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\obj\x86\Debug\Prediction.xaml
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\obj\x86\Debug\Slot.xaml
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\obj\x86\Debug\App.xbf
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\obj\x86\Debug\Dice.xbf
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\obj\x86\Debug\Drinks.xbf
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\obj\x86\Debug\Lotto.xbf
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\obj\x86\Debug\MainPage.xbf
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\obj\x86\Debug\Map.xbf
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\obj\x86\Debug\Prediction.xbf
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\obj\x86\Debug\Slot.xbf
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\obj\x86\Debug\XamlSaveStateFile.xml
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\obj\x86\Debug\5Games_Ass1.csproj.CoreCompileInputs.cache
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\obj\x86\Debug\5Games_Ass1.csproj.CopyComplete
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\obj\x86\Debug\5Games_Ass1.exe
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\obj\x86\Debug\5Games_Ass1.pdb
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\obj\x86\Debug\ResourceHandlingTask.state
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\obj\x86\Debug\priconfig.xml
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\obj\x86\Debug\priconfig.xml.intermediate
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\obj\x86\Debug\unfiltered.layout.resfiles
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\obj\x86\Debug\filtered.layout.resfiles
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\obj\x86\Debug\filtered.layout.resfiles.intermediate
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\obj\x86\Debug\excluded.layout.resfiles
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\obj\x86\Debug\excluded.layout.resfiles.intermediate
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\obj\x86\Debug\resources.resfiles
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\obj\x86\Debug\resources.resfiles.intermediate
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\obj\x86\Debug\pri.resfiles
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\obj\x86\Debug\pri.resfiles.intermediate
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\obj\x86\Debug\qualifiers.txt
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\obj\x86\Debug\qualifiers.txt.intermediate
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\obj\x86\Debug\ProjectArchitectures.txt
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_637112138540000000.json
+E:\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_637424347200000000.json
+E:\Ours\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\Semester1\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\bin\x86\Debug\App.xbf
+E:\Ours\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\Semester1\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\bin\x86\Debug\Dice.xbf
+E:\Ours\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\Semester1\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\bin\x86\Debug\Drinks.xbf
+E:\Ours\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\Semester1\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\bin\x86\Debug\Lotto.xbf
+E:\Ours\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\Semester1\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\bin\x86\Debug\MainPage.xbf
+E:\Ours\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\Semester1\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\bin\x86\Debug\Map.xbf
+E:\Ours\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\Semester1\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\bin\x86\Debug\Prediction.xbf
+E:\Ours\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\Semester1\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\bin\x86\Debug\Slot.xbf
+E:\Ours\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\Semester1\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\bin\x86\Debug\5Games_Ass1.xr.xml
+E:\Ours\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\Semester1\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\bin\x86\Debug\5Games_Ass1.exe
+E:\Ours\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\Semester1\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\bin\x86\Debug\5Games_Ass1.pdb
+E:\Ours\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\Semester1\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\bin\x86\Debug\resources.pri
+E:\Ours\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\Semester1\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\bin\x86\Debug\AppxManifest.xml
+E:\Ours\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\Semester1\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\bin\x86\Debug\Core\5Games_Ass1.exe
+E:\Ours\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\Semester1\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\bin\x86\Debug\Core\AppxManifest.xml
+E:\Ours\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\Semester1\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\bin\x86\Debug\5Games_Ass1.build.appxrecipe
+E:\Ours\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\Semester1\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\bin\x86\Debug\System.Runtime.dll
+E:\Ours\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\Semester1\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\bin\x86\Debug\Microsoft.UI.Xaml.Markup.winmd
+E:\Ours\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\Semester1\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\obj\x86\Debug\5Games_Ass1.csprojAssemblyReference.cache
+E:\Ours\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\Semester1\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\obj\x86\Debug\App.g.i.cs
+E:\Ours\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\Semester1\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\obj\x86\Debug\App.g.cs
+E:\Ours\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\Semester1\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\obj\x86\Debug\Dice.g.i.cs
+E:\Ours\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\Semester1\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\obj\x86\Debug\Dice.g.cs
+E:\Ours\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\Semester1\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\obj\x86\Debug\Drinks.g.i.cs
+E:\Ours\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\Semester1\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\obj\x86\Debug\Drinks.g.cs
+E:\Ours\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\Semester1\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\obj\x86\Debug\Lotto.g.i.cs
+E:\Ours\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\Semester1\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\obj\x86\Debug\Lotto.g.cs
+E:\Ours\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\Semester1\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\obj\x86\Debug\MainPage.g.i.cs
+E:\Ours\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\Semester1\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\obj\x86\Debug\MainPage.g.cs
+E:\Ours\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\Semester1\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\obj\x86\Debug\Map.g.i.cs
+E:\Ours\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\Semester1\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\obj\x86\Debug\Map.g.cs
+E:\Ours\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\Semester1\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\obj\x86\Debug\Prediction.g.i.cs
+E:\Ours\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\Semester1\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\obj\x86\Debug\Prediction.g.cs
+E:\Ours\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\Semester1\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\obj\x86\Debug\Slot.g.i.cs
+E:\Ours\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\Semester1\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\obj\x86\Debug\Slot.g.cs
+E:\Ours\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\Semester1\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\obj\x86\Debug\XamlTypeInfo.g.cs
+E:\Ours\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\Semester1\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\obj\x86\Debug\App.xaml
+E:\Ours\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\Semester1\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\obj\x86\Debug\Dice.xaml
+E:\Ours\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\Semester1\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\obj\x86\Debug\Drinks.xaml
+E:\Ours\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\Semester1\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\obj\x86\Debug\Lotto.xaml
+E:\Ours\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\Semester1\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\obj\x86\Debug\MainPage.xaml
+E:\Ours\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\Semester1\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\obj\x86\Debug\Map.xaml
+E:\Ours\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\Semester1\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\obj\x86\Debug\Prediction.xaml
+E:\Ours\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\Semester1\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\obj\x86\Debug\Slot.xaml
+E:\Ours\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\Semester1\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\obj\x86\Debug\App.xbf
+E:\Ours\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\Semester1\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\obj\x86\Debug\Dice.xbf
+E:\Ours\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\Semester1\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\obj\x86\Debug\Drinks.xbf
+E:\Ours\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\Semester1\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\obj\x86\Debug\Lotto.xbf
+E:\Ours\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\Semester1\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\obj\x86\Debug\MainPage.xbf
+E:\Ours\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\Semester1\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\obj\x86\Debug\Map.xbf
+E:\Ours\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\Semester1\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\obj\x86\Debug\Prediction.xbf
+E:\Ours\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\Semester1\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\obj\x86\Debug\Slot.xbf
+E:\Ours\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\Semester1\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\obj\x86\Debug\XamlSaveStateFile.xml
+E:\Ours\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\Semester1\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\obj\x86\Debug\5Games_Ass1.csproj.CoreCompileInputs.cache
+E:\Ours\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\Semester1\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\obj\x86\Debug\5Games_Ass1.csproj.CopyComplete
+E:\Ours\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\Semester1\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\obj\x86\Debug\5Games_Ass1.exe
+E:\Ours\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\Semester1\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\obj\x86\Debug\5Games_Ass1.pdb
+E:\Ours\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\Semester1\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\obj\x86\Debug\ResourceHandlingTask.state
+E:\Ours\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\Semester1\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\obj\x86\Debug\priconfig.xml
+E:\Ours\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\Semester1\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\obj\x86\Debug\priconfig.xml.intermediate
+E:\Ours\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\Semester1\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\obj\x86\Debug\unfiltered.layout.resfiles
+E:\Ours\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\Semester1\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+E:\Ours\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\Semester1\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\obj\x86\Debug\filtered.layout.resfiles
+E:\Ours\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\Semester1\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\obj\x86\Debug\filtered.layout.resfiles.intermediate
+E:\Ours\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\Semester1\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\obj\x86\Debug\excluded.layout.resfiles
+E:\Ours\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\Semester1\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\obj\x86\Debug\excluded.layout.resfiles.intermediate
+E:\Ours\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\Semester1\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\obj\x86\Debug\resources.resfiles
+E:\Ours\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\Semester1\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\obj\x86\Debug\resources.resfiles.intermediate
+E:\Ours\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\Semester1\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\obj\x86\Debug\pri.resfiles
+E:\Ours\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\Semester1\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\obj\x86\Debug\pri.resfiles.intermediate
+E:\Ours\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\Semester1\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\obj\x86\Debug\qualifiers.txt
+E:\Ours\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\Semester1\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\obj\x86\Debug\qualifiers.txt.intermediate
+E:\Ours\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\Semester1\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+E:\Ours\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\Semester1\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\obj\x86\Debug\ProjectArchitectures.txt
+E:\Ours\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\Semester1\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_637112138540000000.json
+E:\Ours\Jongbo\LV6 IT\SoftwareDevelopment(LV6)\SoftwareDev(Lv6)\Semester1\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_637424347200000000.json

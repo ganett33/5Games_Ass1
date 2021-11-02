@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Source>E:\Jongbo\LV6 IT\SoftwareDevelopment%28LV6%29\SoftwareDev%28Lv6%29\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\Assets\StoreLogo.backup.png</Source>
+    <SmallTileSource>E:\Jongbo\LV6 IT\SoftwareDevelopment%28LV6%29\SoftwareDev%28Lv6%29\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\Assets\StoreLogo.backup.png</SmallTileSource>
+    <MediumTileSource>E:\Jongbo\LV6 IT\SoftwareDevelopment%28LV6%29\SoftwareDev%28Lv6%29\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\Assets\StoreLogo.backup.png</MediumTileSource>
+    <WideTileSource>E:\Jongbo\LV6 IT\SoftwareDevelopment%28LV6%29\SoftwareDev%28Lv6%29\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\Assets\StoreLogo.backup.png</WideTileSource>
+    <LargeTileSource>E:\Jongbo\LV6 IT\SoftwareDevelopment%28LV6%29\SoftwareDev%28Lv6%29\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\Assets\StoreLogo.backup.png</LargeTileSource>
+    <AppIconSource>E:\Jongbo\LV6 IT\SoftwareDevelopment%28LV6%29\SoftwareDev%28Lv6%29\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\Assets\StoreLogo.backup.png</AppIconSource>
+    <SplashScreenSource>E:\Jongbo\LV6 IT\SoftwareDevelopment%28LV6%29\SoftwareDev%28Lv6%29\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\Assets\StoreLogo.backup.png</SplashScreenSource>
+    <PackageLogoSource>E:\Jongbo\LV6 IT\SoftwareDevelopment%28LV6%29\SoftwareDev%28Lv6%29\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\Assets\StoreLogo.backup.png</PackageLogoSource>
+  </PropertyGroup>
+</Project>

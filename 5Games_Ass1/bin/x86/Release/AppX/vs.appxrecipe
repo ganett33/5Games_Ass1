@@ -1,0 +1,530 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DESKTOP-CMQG4DH</Machine>
+    <WindowsUser>ganet</WindowsUser>
+    <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
+    <TargetOsVersion>10.0</TargetOsVersion>
+    <TargetOsDescription>Windows 10.0</TargetOsDescription>
+    <SolutionConfiguration>Release|x86</SolutionConfiguration>
+    <PackageArchitecture>x86</PackageArchitecture>
+    <PackageIdentityName>1b022663-a753-45ca-9747-6659c9fac7d5</PackageIdentityName>
+    <PackageIdentityPublisher>CN=ganet</PackageIdentityPublisher>
+    <IntermediateOutputPath>E:\Jongbo\LV6 IT\SoftwareDevelopment%28LV6%29\SoftwareDev%28Lv6%29\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\obj\x86\Release\</IntermediateOutputPath>
+    <RemoteDeploymentType>
+    </RemoteDeploymentType>
+    <PackageRegistrationPath>
+    </PackageRegistrationPath>
+    <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
+    <DeployOptionalPackages>false</DeployOptionalPackages>
+    <WindowsSdkPath>E:\Windows Kits\10\</WindowsSdkPath>
+    <LayoutDir>E:\Jongbo\LV6 IT\SoftwareDevelopment%28LV6%29\SoftwareDev%28Lv6%29\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\bin\x86\Release\AppX</LayoutDir>
+    <RegisteredManifestChecksum>17DF629171CD8AC5FE36BDA99C72B53045351BD1E4533FD480D90421D025BB37</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>1b022663-a753-45ca-9747-6659c9fac7d5_1.0.0.0_x86__pw4frn6z81q9w</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>1b022663-a753-45ca-9747-6659c9fac7d5_pw4frn6z81q9w!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>1b022663-a753-45ca-9747-6659c9fac7d5</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=ganet</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="E:\Jongbo\LV6 IT\SoftwareDevelopment%28LV6%29\SoftwareDev%28Lv6%29\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\bin\x86\Release\ilc\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2021-06-16T11:30:01.932</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="E:\Jongbo\LV6 IT\SoftwareDevelopment%28LV6%29\SoftwareDev%28Lv6%29\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\bin\x86\Release\ilc\5Games_Ass1.dll">
+      <PackagePath>5Games_Ass1.dll</PackagePath>
+      <Modified>2021-06-16T11:30:01.818</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Jongbo\LV6 IT\SoftwareDevelopment%28LV6%29\SoftwareDev%28Lv6%29\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\bin\x86\Release\ilc\5Games_Ass1.exe">
+      <PackagePath>5Games_Ass1.exe</PackagePath>
+      <Modified>2021-06-16T11:30:01.926</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Jongbo\LV6 IT\SoftwareDevelopment%28LV6%29\SoftwareDev%28Lv6%29\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\bin\x86\Release\ilc\5Games_Ass1.pdb">
+      <PackagePath>5Games_Ass1.pdb</PackagePath>
+      <Modified>2021-06-16T11:30:01.925</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Jongbo\LV6 IT\SoftwareDevelopment%28LV6%29\SoftwareDev%28Lv6%29\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\bin\x86\Release\ilc\Assets\bg_Dice.jpg">
+      <PackagePath>Assets\bg_Dice.jpg</PackagePath>
+      <Modified>2021-03-24T19:41:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Jongbo\LV6 IT\SoftwareDevelopment%28LV6%29\SoftwareDev%28Lv6%29\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\bin\x86\Release\ilc\Assets\bg_Drinks.jpg">
+      <PackagePath>Assets\bg_Drinks.jpg</PackagePath>
+      <Modified>2021-05-30T05:53:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Jongbo\LV6 IT\SoftwareDevelopment%28LV6%29\SoftwareDev%28Lv6%29\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\bin\x86\Release\ilc\Assets\bg_Lotto.jpg">
+      <PackagePath>Assets\bg_Lotto.jpg</PackagePath>
+      <Modified>2021-03-24T11:57:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Jongbo\LV6 IT\SoftwareDevelopment%28LV6%29\SoftwareDev%28Lv6%29\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\bin\x86\Release\ilc\Assets\bg_Main_3.gif">
+      <PackagePath>Assets\bg_Main_3.gif</PackagePath>
+      <Modified>2021-03-24T11:31:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Jongbo\LV6 IT\SoftwareDevelopment%28LV6%29\SoftwareDev%28Lv6%29\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\bin\x86\Release\ilc\Assets\bg_predic_1.jpg">
+      <PackagePath>Assets\bg_predic_1.jpg</PackagePath>
+      <Modified>2021-03-24T05:36:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Jongbo\LV6 IT\SoftwareDevelopment%28LV6%29\SoftwareDev%28Lv6%29\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\bin\x86\Release\ilc\Assets\bg_Slot.jpg">
+      <PackagePath>Assets\bg_Slot.jpg</PackagePath>
+      <Modified>2021-03-24T02:43:30.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Jongbo\LV6 IT\SoftwareDevelopment%28LV6%29\SoftwareDev%28Lv6%29\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\bin\x86\Release\ilc\Assets\Dice\five.png">
+      <PackagePath>Assets\Dice\five.png</PackagePath>
+      <Modified>2021-06-10T01:53:09.676</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Jongbo\LV6 IT\SoftwareDevelopment%28LV6%29\SoftwareDev%28Lv6%29\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\bin\x86\Release\ilc\Assets\Dice\four.png">
+      <PackagePath>Assets\Dice\four.png</PackagePath>
+      <Modified>2021-06-10T01:53:10.294</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Jongbo\LV6 IT\SoftwareDevelopment%28LV6%29\SoftwareDev%28Lv6%29\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\bin\x86\Release\ilc\Assets\Dice\one.png">
+      <PackagePath>Assets\Dice\one.png</PackagePath>
+      <Modified>2021-06-10T01:53:10.865</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Jongbo\LV6 IT\SoftwareDevelopment%28LV6%29\SoftwareDev%28Lv6%29\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\bin\x86\Release\ilc\Assets\Dice\six.png">
+      <PackagePath>Assets\Dice\six.png</PackagePath>
+      <Modified>2021-06-10T01:53:07.856</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Jongbo\LV6 IT\SoftwareDevelopment%28LV6%29\SoftwareDev%28Lv6%29\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\bin\x86\Release\ilc\Assets\Dice\tenor.gif">
+      <PackagePath>Assets\Dice\tenor.gif</PackagePath>
+      <Modified>2021-06-10T02:43:10.835</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Jongbo\LV6 IT\SoftwareDevelopment%28LV6%29\SoftwareDev%28Lv6%29\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\bin\x86\Release\ilc\Assets\Dice\three.png">
+      <PackagePath>Assets\Dice\three.png</PackagePath>
+      <Modified>2021-06-10T01:53:08.511</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Jongbo\LV6 IT\SoftwareDevelopment%28LV6%29\SoftwareDev%28Lv6%29\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\bin\x86\Release\ilc\Assets\Dice\two.png">
+      <PackagePath>Assets\Dice\two.png</PackagePath>
+      <Modified>2021-06-10T01:53:09.105</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Jongbo\LV6 IT\SoftwareDevelopment%28LV6%29\SoftwareDev%28Lv6%29\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\bin\x86\Release\ilc\Assets\Drinks\Cosmopolitan.png">
+      <PackagePath>Assets\Drinks\Cosmopolitan.png</PackagePath>
+      <Modified>2021-05-20T22:13:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Jongbo\LV6 IT\SoftwareDevelopment%28LV6%29\SoftwareDev%28Lv6%29\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\bin\x86\Release\ilc\Assets\Drinks\Daiquiri.png">
+      <PackagePath>Assets\Drinks\Daiquiri.png</PackagePath>
+      <Modified>2021-05-20T22:13:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Jongbo\LV6 IT\SoftwareDevelopment%28LV6%29\SoftwareDev%28Lv6%29\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\bin\x86\Release\ilc\Assets\Drinks\Dark n Stormy.png">
+      <PackagePath>Assets\Drinks\Dark n Stormy.png</PackagePath>
+      <Modified>2021-05-20T22:13:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Jongbo\LV6 IT\SoftwareDevelopment%28LV6%29\SoftwareDev%28Lv6%29\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\bin\x86\Release\ilc\Assets\Drinks\Empty Glass.png">
+      <PackagePath>Assets\Drinks\Empty Glass.png</PackagePath>
+      <Modified>2021-05-20T22:13:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Jongbo\LV6 IT\SoftwareDevelopment%28LV6%29\SoftwareDev%28Lv6%29\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\bin\x86\Release\ilc\Assets\Drinks\French 75.png">
+      <PackagePath>Assets\Drinks\French 75.png</PackagePath>
+      <Modified>2021-05-20T22:13:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Jongbo\LV6 IT\SoftwareDevelopment%28LV6%29\SoftwareDev%28Lv6%29\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\bin\x86\Release\ilc\Assets\Drinks\Gimlet.png">
+      <PackagePath>Assets\Drinks\Gimlet.png</PackagePath>
+      <Modified>2021-05-20T22:13:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Jongbo\LV6 IT\SoftwareDevelopment%28LV6%29\SoftwareDev%28Lv6%29\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\bin\x86\Release\ilc\Assets\Drinks\Manhattan.png">
+      <PackagePath>Assets\Drinks\Manhattan.png</PackagePath>
+      <Modified>2021-05-20T22:13:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Jongbo\LV6 IT\SoftwareDevelopment%28LV6%29\SoftwareDev%28Lv6%29\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\bin\x86\Release\ilc\Assets\Drinks\Margarita.png">
+      <PackagePath>Assets\Drinks\Margarita.png</PackagePath>
+      <Modified>2021-05-20T22:13:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Jongbo\LV6 IT\SoftwareDevelopment%28LV6%29\SoftwareDev%28Lv6%29\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\bin\x86\Release\ilc\Assets\Drinks\Martinez.png">
+      <PackagePath>Assets\Drinks\Martinez.png</PackagePath>
+      <Modified>2021-05-20T22:13:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Jongbo\LV6 IT\SoftwareDevelopment%28LV6%29\SoftwareDev%28Lv6%29\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\bin\x86\Release\ilc\Assets\Drinks\Martini.png">
+      <PackagePath>Assets\Drinks\Martini.png</PackagePath>
+      <Modified>2021-05-20T22:13:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Jongbo\LV6 IT\SoftwareDevelopment%28LV6%29\SoftwareDev%28Lv6%29\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\bin\x86\Release\ilc\Assets\Drinks\Mimosa.png">
+      <PackagePath>Assets\Drinks\Mimosa.png</PackagePath>
+      <Modified>2021-05-20T22:13:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Jongbo\LV6 IT\SoftwareDevelopment%28LV6%29\SoftwareDev%28Lv6%29\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\bin\x86\Release\ilc\Assets\Drinks\Mint Julep.png">
+      <PackagePath>Assets\Drinks\Mint Julep.png</PackagePath>
+      <Modified>2021-05-20T22:13:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Jongbo\LV6 IT\SoftwareDevelopment%28LV6%29\SoftwareDev%28Lv6%29\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\bin\x86\Release\ilc\Assets\Drinks\Mojito.png">
+      <PackagePath>Assets\Drinks\Mojito.png</PackagePath>
+      <Modified>2021-05-20T22:13:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Jongbo\LV6 IT\SoftwareDevelopment%28LV6%29\SoftwareDev%28Lv6%29\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\bin\x86\Release\ilc\Assets\Drinks\Moscow Mule.png">
+      <PackagePath>Assets\Drinks\Moscow Mule.png</PackagePath>
+      <Modified>2021-05-20T22:13:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Jongbo\LV6 IT\SoftwareDevelopment%28LV6%29\SoftwareDev%28Lv6%29\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\bin\x86\Release\ilc\Assets\Drinks\Negroni.png">
+      <PackagePath>Assets\Drinks\Negroni.png</PackagePath>
+      <Modified>2021-05-20T22:13:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Jongbo\LV6 IT\SoftwareDevelopment%28LV6%29\SoftwareDev%28Lv6%29\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\bin\x86\Release\ilc\Assets\Drinks\Old Fashioned.png">
+      <PackagePath>Assets\Drinks\Old Fashioned.png</PackagePath>
+      <Modified>2021-05-20T22:13:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Jongbo\LV6 IT\SoftwareDevelopment%28LV6%29\SoftwareDev%28Lv6%29\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\bin\x86\Release\ilc\Assets\Drinks\Paloma.png">
+      <PackagePath>Assets\Drinks\Paloma.png</PackagePath>
+      <Modified>2021-05-20T22:13:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Jongbo\LV6 IT\SoftwareDevelopment%28LV6%29\SoftwareDev%28Lv6%29\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\bin\x86\Release\ilc\Assets\Drinks\Pimms Cup.png">
+      <PackagePath>Assets\Drinks\Pimms Cup.png</PackagePath>
+      <Modified>2021-05-20T22:13:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Jongbo\LV6 IT\SoftwareDevelopment%28LV6%29\SoftwareDev%28Lv6%29\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\bin\x86\Release\ilc\Assets\Drinks\Pina Colada.png">
+      <PackagePath>Assets\Drinks\Pina Colada.png</PackagePath>
+      <Modified>2021-05-20T22:13:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Jongbo\LV6 IT\SoftwareDevelopment%28LV6%29\SoftwareDev%28Lv6%29\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\bin\x86\Release\ilc\Assets\Drinks\Sazerac.png">
+      <PackagePath>Assets\Drinks\Sazerac.png</PackagePath>
+      <Modified>2021-05-20T22:13:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Jongbo\LV6 IT\SoftwareDevelopment%28LV6%29\SoftwareDev%28Lv6%29\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\bin\x86\Release\ilc\Assets\Drinks\Sidecar.png">
+      <PackagePath>Assets\Drinks\Sidecar.png</PackagePath>
+      <Modified>2021-05-20T22:13:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Jongbo\LV6 IT\SoftwareDevelopment%28LV6%29\SoftwareDev%28Lv6%29\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\bin\x86\Release\ilc\Assets\Drinks\Singapore Sling.png">
+      <PackagePath>Assets\Drinks\Singapore Sling.png</PackagePath>
+      <Modified>2021-05-20T22:13:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Jongbo\LV6 IT\SoftwareDevelopment%28LV6%29\SoftwareDev%28Lv6%29\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\bin\x86\Release\ilc\Assets\Drinks\Surfer Girl.png">
+      <PackagePath>Assets\Drinks\Surfer Girl.png</PackagePath>
+      <Modified>2021-05-20T22:13:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Jongbo\LV6 IT\SoftwareDevelopment%28LV6%29\SoftwareDev%28Lv6%29\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\bin\x86\Release\ilc\Assets\Drinks\Whiskey Sour.png">
+      <PackagePath>Assets\Drinks\Whiskey Sour.png</PackagePath>
+      <Modified>2021-05-20T22:13:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Jongbo\LV6 IT\SoftwareDevelopment%28LV6%29\SoftwareDev%28Lv6%29\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\bin\x86\Release\ilc\Assets\Icon\dice_normal.svg">
+      <PackagePath>Assets\Icon\dice_normal.svg</PackagePath>
+      <Modified>2021-03-18T03:35:34.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Jongbo\LV6 IT\SoftwareDevelopment%28LV6%29\SoftwareDev%28Lv6%29\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\bin\x86\Release\ilc\Assets\Icon\dice_select.svg">
+      <PackagePath>Assets\Icon\dice_select.svg</PackagePath>
+      <Modified>2021-03-18T03:47:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Jongbo\LV6 IT\SoftwareDevelopment%28LV6%29\SoftwareDev%28Lv6%29\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\bin\x86\Release\ilc\Assets\Icon\drink_normal.svg">
+      <PackagePath>Assets\Icon\drink_normal.svg</PackagePath>
+      <Modified>2021-03-18T09:20:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Jongbo\LV6 IT\SoftwareDevelopment%28LV6%29\SoftwareDev%28Lv6%29\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\bin\x86\Release\ilc\Assets\Icon\drink_select.svg">
+      <PackagePath>Assets\Icon\drink_select.svg</PackagePath>
+      <Modified>2021-03-18T09:17:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Jongbo\LV6 IT\SoftwareDevelopment%28LV6%29\SoftwareDev%28Lv6%29\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\bin\x86\Release\ilc\Assets\Icon\lotto.svg">
+      <PackagePath>Assets\Icon\lotto.svg</PackagePath>
+      <Modified>2021-03-17T10:00:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Jongbo\LV6 IT\SoftwareDevelopment%28LV6%29\SoftwareDev%28Lv6%29\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\bin\x86\Release\ilc\Assets\Icon\lotto_normal.svg">
+      <PackagePath>Assets\Icon\lotto_normal.svg</PackagePath>
+      <Modified>2021-03-18T09:17:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Jongbo\LV6 IT\SoftwareDevelopment%28LV6%29\SoftwareDev%28Lv6%29\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\bin\x86\Release\ilc\Assets\Icon\lotto_select.svg">
+      <PackagePath>Assets\Icon\lotto_select.svg</PackagePath>
+      <Modified>2021-03-18T09:17:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Jongbo\LV6 IT\SoftwareDevelopment%28LV6%29\SoftwareDev%28Lv6%29\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\bin\x86\Release\ilc\Assets\Icon\main_normal.svg">
+      <PackagePath>Assets\Icon\main_normal.svg</PackagePath>
+      <Modified>2021-03-18T11:04:58.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Jongbo\LV6 IT\SoftwareDevelopment%28LV6%29\SoftwareDev%28Lv6%29\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\bin\x86\Release\ilc\Assets\Icon\main_select.svg">
+      <PackagePath>Assets\Icon\main_select.svg</PackagePath>
+      <Modified>2021-03-18T11:04:58.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Jongbo\LV6 IT\SoftwareDevelopment%28LV6%29\SoftwareDev%28Lv6%29\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\bin\x86\Release\ilc\Assets\Icon\predic_normal.svg">
+      <PackagePath>Assets\Icon\predic_normal.svg</PackagePath>
+      <Modified>2021-03-18T09:30:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Jongbo\LV6 IT\SoftwareDevelopment%28LV6%29\SoftwareDev%28Lv6%29\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\bin\x86\Release\ilc\Assets\Icon\predic_select.svg">
+      <PackagePath>Assets\Icon\predic_select.svg</PackagePath>
+      <Modified>2021-03-18T09:30:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Jongbo\LV6 IT\SoftwareDevelopment%28LV6%29\SoftwareDev%28Lv6%29\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\bin\x86\Release\ilc\Assets\Icon\slot-machine.svg">
+      <PackagePath>Assets\Icon\slot-machine.svg</PackagePath>
+      <Modified>2021-03-26T01:35:22.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Jongbo\LV6 IT\SoftwareDevelopment%28LV6%29\SoftwareDev%28Lv6%29\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\bin\x86\Release\ilc\Assets\Icon\slot_normal.svg">
+      <PackagePath>Assets\Icon\slot_normal.svg</PackagePath>
+      <Modified>2021-03-18T09:36:18.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Jongbo\LV6 IT\SoftwareDevelopment%28LV6%29\SoftwareDev%28Lv6%29\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\bin\x86\Release\ilc\Assets\Icon\slot_select.svg">
+      <PackagePath>Assets\Icon\slot_select.svg</PackagePath>
+      <Modified>2021-03-18T09:36:18.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Jongbo\LV6 IT\SoftwareDevelopment%28LV6%29\SoftwareDev%28Lv6%29\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\bin\x86\Release\ilc\Assets\LockScreenLogo.scale-200.png">
+      <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
+      <Modified>2021-03-10T03:39:14.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Jongbo\LV6 IT\SoftwareDevelopment%28LV6%29\SoftwareDev%28Lv6%29\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\bin\x86\Release\ilc\Assets\logoOut.png">
+      <PackagePath>Assets\logoOut.png</PackagePath>
+      <Modified>2021-04-27T02:34:12.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Jongbo\LV6 IT\SoftwareDevelopment%28LV6%29\SoftwareDev%28Lv6%29\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\bin\x86\Release\ilc\Assets\Lotto\LottoEffect.gif">
+      <PackagePath>Assets\Lotto\LottoEffect.gif</PackagePath>
+      <Modified>2021-05-30T22:56:08.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Jongbo\LV6 IT\SoftwareDevelopment%28LV6%29\SoftwareDev%28Lv6%29\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\bin\x86\Release\ilc\Assets\Media\bg_Predic.wmv">
+      <PackagePath>Assets\Media\bg_Predic.wmv</PackagePath>
+      <Modified>2021-06-02T02:40:08.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Jongbo\LV6 IT\SoftwareDevelopment%28LV6%29\SoftwareDev%28Lv6%29\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\bin\x86\Release\ilc\Assets\Media\Coin.mp3">
+      <PackagePath>Assets\Media\Coin.mp3</PackagePath>
+      <Modified>2021-05-31T02:56:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Jongbo\LV6 IT\SoftwareDevelopment%28LV6%29\SoftwareDev%28Lv6%29\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\bin\x86\Release\ilc\Assets\Media\Gameover.mp3">
+      <PackagePath>Assets\Media\Gameover.mp3</PackagePath>
+      <Modified>2021-06-15T22:07:46.100</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Jongbo\LV6 IT\SoftwareDevelopment%28LV6%29\SoftwareDev%28Lv6%29\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\bin\x86\Release\ilc\Assets\Media\Good Luck.mp3">
+      <PackagePath>Assets\Media\Good Luck.mp3</PackagePath>
+      <Modified>2021-06-15T03:35:42.263</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Jongbo\LV6 IT\SoftwareDevelopment%28LV6%29\SoftwareDev%28Lv6%29\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\bin\x86\Release\ilc\Assets\Media\Jackpot.mp3">
+      <PackagePath>Assets\Media\Jackpot.mp3</PackagePath>
+      <Modified>2021-06-11T03:55:45.426</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Jongbo\LV6 IT\SoftwareDevelopment%28LV6%29\SoftwareDev%28Lv6%29\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\bin\x86\Release\ilc\Assets\Media\main_bg.mp3">
+      <PackagePath>Assets\Media\main_bg.mp3</PackagePath>
+      <Modified>2021-06-15T09:19:26.891</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Jongbo\LV6 IT\SoftwareDevelopment%28LV6%29\SoftwareDev%28Lv6%29\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\bin\x86\Release\ilc\Assets\Media\Rolling Dice.mp3">
+      <PackagePath>Assets\Media\Rolling Dice.mp3</PackagePath>
+      <Modified>2021-06-10T02:27:00.725</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Jongbo\LV6 IT\SoftwareDevelopment%28LV6%29\SoftwareDev%28Lv6%29\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\bin\x86\Release\ilc\Assets\Media\Spin.mp3">
+      <PackagePath>Assets\Media\Spin.mp3</PackagePath>
+      <Modified>2021-06-15T22:02:42.831</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Jongbo\LV6 IT\SoftwareDevelopment%28LV6%29\SoftwareDev%28Lv6%29\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\bin\x86\Release\ilc\Assets\Media\Stop.mp3">
+      <PackagePath>Assets\Media\Stop.mp3</PackagePath>
+      <Modified>2021-06-11T03:55:45.425</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Jongbo\LV6 IT\SoftwareDevelopment%28LV6%29\SoftwareDev%28Lv6%29\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\bin\x86\Release\ilc\Assets\Predic\blank.png">
+      <PackagePath>Assets\Predic\blank.png</PackagePath>
+      <Modified>2021-05-28T01:16:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Jongbo\LV6 IT\SoftwareDevelopment%28LV6%29\SoftwareDev%28Lv6%29\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\bin\x86\Release\ilc\Assets\Predic\hand.png">
+      <PackagePath>Assets\Predic\hand.png</PackagePath>
+      <Modified>2021-06-02T03:57:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Jongbo\LV6 IT\SoftwareDevelopment%28LV6%29\SoftwareDev%28Lv6%29\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\bin\x86\Release\ilc\Assets\Predic\print.png">
+      <PackagePath>Assets\Predic\print.png</PackagePath>
+      <Modified>2021-06-02T03:29:00.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Jongbo\LV6 IT\SoftwareDevelopment%28LV6%29\SoftwareDev%28Lv6%29\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\bin\x86\Release\ilc\Assets\Slot\bg_slot2.jpg">
+      <PackagePath>Assets\Slot\bg_slot2.jpg</PackagePath>
+      <Modified>2021-04-01T10:54:08.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Jongbo\LV6 IT\SoftwareDevelopment%28LV6%29\SoftwareDev%28Lv6%29\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\bin\x86\Release\ilc\Assets\Slot\bg_slot5.jpg">
+      <PackagePath>Assets\Slot\bg_slot5.jpg</PackagePath>
+      <Modified>2021-04-01T11:33:50.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Jongbo\LV6 IT\SoftwareDevelopment%28LV6%29\SoftwareDev%28Lv6%29\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\bin\x86\Release\ilc\Assets\Slot\img_Apple_Slot.png">
+      <PackagePath>Assets\Slot\img_Apple_Slot.png</PackagePath>
+      <Modified>2021-03-26T03:07:00.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Jongbo\LV6 IT\SoftwareDevelopment%28LV6%29\SoftwareDev%28Lv6%29\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\bin\x86\Release\ilc\Assets\Slot\img_Cherry_Slot.png">
+      <PackagePath>Assets\Slot\img_Cherry_Slot.png</PackagePath>
+      <Modified>2021-03-26T06:38:44.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Jongbo\LV6 IT\SoftwareDevelopment%28LV6%29\SoftwareDev%28Lv6%29\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\bin\x86\Release\ilc\Assets\Slot\img_Gem_Slot.png">
+      <PackagePath>Assets\Slot\img_Gem_Slot.png</PackagePath>
+      <Modified>2021-03-26T03:07:00.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Jongbo\LV6 IT\SoftwareDevelopment%28LV6%29\SoftwareDev%28Lv6%29\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\bin\x86\Release\ilc\Assets\Slot\img_Heart_Slot.png">
+      <PackagePath>Assets\Slot\img_Heart_Slot.png</PackagePath>
+      <Modified>2021-03-26T03:07:00.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Jongbo\LV6 IT\SoftwareDevelopment%28LV6%29\SoftwareDev%28Lv6%29\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\bin\x86\Release\ilc\Assets\Slot\img_slot_godzilla.gif">
+      <PackagePath>Assets\Slot\img_slot_godzilla.gif</PackagePath>
+      <Modified>2021-04-05T04:46:00.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Jongbo\LV6 IT\SoftwareDevelopment%28LV6%29\SoftwareDev%28Lv6%29\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\bin\x86\Release\ilc\Assets\Slot\img_Welcom.gif">
+      <PackagePath>Assets\Slot\img_Welcom.gif</PackagePath>
+      <Modified>2021-04-01T03:49:50.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Jongbo\LV6 IT\SoftwareDevelopment%28LV6%29\SoftwareDev%28Lv6%29\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\bin\x86\Release\ilc\Assets\Slot\lose.png">
+      <PackagePath>Assets\Slot\lose.png</PackagePath>
+      <Modified>2021-03-26T06:46:16.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Jongbo\LV6 IT\SoftwareDevelopment%28LV6%29\SoftwareDev%28Lv6%29\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\bin\x86\Release\ilc\Assets\Slot\LoseGame.jpg">
+      <PackagePath>Assets\Slot\LoseGame.jpg</PackagePath>
+      <Modified>2021-03-26T03:27:18.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Jongbo\LV6 IT\SoftwareDevelopment%28LV6%29\SoftwareDev%28Lv6%29\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\bin\x86\Release\ilc\Assets\Slot\lose_Game.jpg">
+      <PackagePath>Assets\Slot\lose_Game.jpg</PackagePath>
+      <Modified>2021-05-31T23:59:08.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Jongbo\LV6 IT\SoftwareDevelopment%28LV6%29\SoftwareDev%28Lv6%29\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\bin\x86\Release\ilc\Assets\Slot\slot.png">
+      <PackagePath>Assets\Slot\slot.png</PackagePath>
+      <Modified>2021-03-26T01:29:12.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Jongbo\LV6 IT\SoftwareDevelopment%28LV6%29\SoftwareDev%28Lv6%29\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\bin\x86\Release\ilc\Assets\Slot\Spining.gif">
+      <PackagePath>Assets\Slot\Spining.gif</PackagePath>
+      <Modified>2021-06-01T10:15:16.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Jongbo\LV6 IT\SoftwareDevelopment%28LV6%29\SoftwareDev%28Lv6%29\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\bin\x86\Release\ilc\Assets\Slot\win.png">
+      <PackagePath>Assets\Slot\win.png</PackagePath>
+      <Modified>2021-03-26T03:07:00.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Jongbo\LV6 IT\SoftwareDevelopment%28LV6%29\SoftwareDev%28Lv6%29\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\bin\x86\Release\ilc\Assets\Slot\WinGame.gif">
+      <PackagePath>Assets\Slot\WinGame.gif</PackagePath>
+      <Modified>2021-03-26T03:27:18.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Jongbo\LV6 IT\SoftwareDevelopment%28LV6%29\SoftwareDev%28Lv6%29\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\bin\x86\Release\ilc\Assets\Slot\win_Game.jpg">
+      <PackagePath>Assets\Slot\win_Game.jpg</PackagePath>
+      <Modified>2021-05-31T23:59:08.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Jongbo\LV6 IT\SoftwareDevelopment%28LV6%29\SoftwareDev%28Lv6%29\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\bin\x86\Release\ilc\Assets\SplashScreen.scale-200.png">
+      <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2021-03-10T03:39:14.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Jongbo\LV6 IT\SoftwareDevelopment%28LV6%29\SoftwareDev%28Lv6%29\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\bin\x86\Release\ilc\Assets\Square150x150Logo.scale-200.png">
+      <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2021-03-10T03:39:14.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Jongbo\LV6 IT\SoftwareDevelopment%28LV6%29\SoftwareDev%28Lv6%29\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\bin\x86\Release\ilc\Assets\Square44x44Logo.scale-200.png">
+      <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2021-03-10T03:39:14.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Jongbo\LV6 IT\SoftwareDevelopment%28LV6%29\SoftwareDev%28Lv6%29\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\bin\x86\Release\ilc\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2021-03-10T03:39:14.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Jongbo\LV6 IT\SoftwareDevelopment%28LV6%29\SoftwareDev%28Lv6%29\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\bin\x86\Release\ilc\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2021-03-10T03:39:14.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Jongbo\LV6 IT\SoftwareDevelopment%28LV6%29\SoftwareDev%28Lv6%29\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\bin\x86\Release\ilc\Assets\tauranga.jpg">
+      <PackagePath>Assets\tauranga.jpg</PackagePath>
+      <Modified>2021-04-27T02:23:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Jongbo\LV6 IT\SoftwareDevelopment%28LV6%29\SoftwareDev%28Lv6%29\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\bin\x86\Release\ilc\Assets\Wide310x150Logo.scale-200.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2021-03-10T03:39:14.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Jongbo\LV6 IT\SoftwareDevelopment%28LV6%29\SoftwareDev%28Lv6%29\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\bin\x86\Release\ilc\clrcompression.dll">
+      <PackagePath>clrcompression.dll</PackagePath>
+      <Modified>2020-11-19T20:09:12.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Jongbo\LV6 IT\SoftwareDevelopment%28LV6%29\SoftwareDev%28Lv6%29\COMP.6215 - Graphical User Interface Programming\Assignmnet\Final\5Games_Ass1\5Games_Ass1\bin\x86\Release\ilc\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2021-06-16T11:29:41.458</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x86.microsoft.net.native.sharedlibrary\2.2.8-rel-29512-01\build\..\tools\SharedLibrary\ret\Native\Microsoft.NET.Native.Framework.2.2.appx">
+      <Name>Microsoft.NET.Native.Framework.2.2</Name>
+      <Version>2.2.29512.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Framework.2.2, MinVersion = 2.2.29512.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x86.microsoft.net.native.sharedlibrary\2.2.8-rel-29512-01\build\..\tools\SharedLibrary\ret\Native\Microsoft.NET.Native.Framework.2.2.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x64.microsoft.net.native.sharedlibrary\2.2.8-rel-29512-01\build\..\tools\SharedLibrary\ret\Native\Microsoft.NET.Native.Framework.2.2.appx">
+      <Name>Microsoft.NET.Native.Framework.2.2</Name>
+      <Version>2.2.29512.0</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Framework.2.2, MinVersion = 2.2.29512.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x64.microsoft.net.native.sharedlibrary\2.2.8-rel-29512-01\build\..\tools\SharedLibrary\ret\Native\Microsoft.NET.Native.Framework.2.2.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-arm64.microsoft.net.native.sharedlibrary\2.2.8-rel-29512-01\build\..\tools\SharedLibrary\ret\Native\Microsoft.NET.Native.Framework.2.2.appx">
+      <Name>Microsoft.NET.Native.Framework.2.2</Name>
+      <Version>2.2.29512.0</Version>
+      <Architecture>arm64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Framework.2.2, MinVersion = 2.2.29512.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-arm64.microsoft.net.native.sharedlibrary\2.2.8-rel-29512-01\build\..\tools\SharedLibrary\ret\Native\Microsoft.NET.Native.Framework.2.2.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-arm.microsoft.net.native.sharedlibrary\2.2.8-rel-29512-01\build\..\tools\SharedLibrary\ret\Native\Microsoft.NET.Native.Framework.2.2.appx">
+      <Name>Microsoft.NET.Native.Framework.2.2</Name>
+      <Version>2.2.29512.0</Version>
+      <Architecture>arm</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Framework.2.2, MinVersion = 2.2.29512.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-arm.microsoft.net.native.sharedlibrary\2.2.8-rel-29512-01\build\..\tools\SharedLibrary\ret\Native\Microsoft.NET.Native.Framework.2.2.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x86.microsoft.net.native.compiler\2.2.9-rel-29512-01\build\..\tools\Runtime\x86\Microsoft.NET.Native.Runtime.2.2.appx">
+      <Name>Microsoft.NET.Native.Runtime.2.2</Name>
+      <Version>2.2.28604.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Runtime.2.2, MinVersion = 2.2.28604.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x86.microsoft.net.native.compiler\2.2.9-rel-29512-01\build\..\tools\Runtime\x86\Microsoft.NET.Native.Runtime.2.2.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x64.microsoft.net.native.compiler\2.2.9-rel-29512-01\build\..\tools\Runtime\x64\Microsoft.NET.Native.Runtime.2.2.appx">
+      <Name>Microsoft.NET.Native.Runtime.2.2</Name>
+      <Version>2.2.28604.0</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Runtime.2.2, MinVersion = 2.2.28604.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x64.microsoft.net.native.compiler\2.2.9-rel-29512-01\build\..\tools\Runtime\x64\Microsoft.NET.Native.Runtime.2.2.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-arm64.microsoft.net.native.compiler\2.2.9-rel-29512-01\build\..\tools\Runtime\arm64\Microsoft.NET.Native.Runtime.2.2.appx">
+      <Name>Microsoft.NET.Native.Runtime.2.2</Name>
+      <Version>2.2.28604.0</Version>
+      <Architecture>arm64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Runtime.2.2, MinVersion = 2.2.28604.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-arm64.microsoft.net.native.compiler\2.2.9-rel-29512-01\build\..\tools\Runtime\arm64\Microsoft.NET.Native.Runtime.2.2.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-arm.microsoft.net.native.compiler\2.2.9-rel-29512-01\build\..\tools\Runtime\arm\Microsoft.NET.Native.Runtime.2.2.appx">
+      <Name>Microsoft.NET.Native.Runtime.2.2</Name>
+      <Version>2.2.28604.0</Version>
+      <Architecture>arm</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Runtime.2.2, MinVersion = 2.2.28604.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-arm.microsoft.net.native.compiler\2.2.9-rel-29512-01\build\..\tools\Runtime\arm\Microsoft.NET.Native.Runtime.2.2.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00</Name>
+      <Version>14.0.29231.0</Version>
+      <Architecture>ARM</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00, MinVersion = 14.0.29231.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Retail\ARM\Microsoft.VCLibs.ARM.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00</Name>
+      <Version>14.0.29231.0</Version>
+      <Architecture>ARM64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00, MinVersion = 14.0.29231.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Retail\ARM64\Microsoft.VCLibs.ARM64.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00</Name>
+      <Version>14.0.29231.0</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00, MinVersion = 14.0.29231.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Retail\x64\Microsoft.VCLibs.x64.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00</Name>
+      <Version>14.0.29231.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00, MinVersion = 14.0.29231.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Retail\x86\Microsoft.VCLibs.x86.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,214 @@
+﻿<Page
+    x:Class="_5Games_Ass1.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:_5Games_Ass1"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid >
+        <Grid.Background>
+            <ImageBrush ImageSource="/Assets/bg_Main_3.gif" Stretch="UniformToFill"/>
+        </Grid.Background>
+        <VisualStateManager.VisualStateGroups>
+            <VisualStateGroup>
+                <VisualState x:Name="Narrow">
+                    <VisualState.StateTriggers>
+                        <AdaptiveTrigger MinWindowWidth="0" />
+                    </VisualState.StateTriggers>
+                    <VisualState.Setters>
+                        <Setter Target="MySplitView.DisplayMode"
+                                Value="Overlay" />
+                        <Setter Target="MySplitView.IsPaneOpen"
+                                Value="False" />
+                    </VisualState.Setters>
+                </VisualState>
+                <VisualState x:Name="Compact">
+                    <VisualState.StateTriggers>
+                        <AdaptiveTrigger MinWindowWidth="720" />
+                    </VisualState.StateTriggers>
+                    <VisualState.Setters>
+                        <Setter Target="MySplitView.DisPlayMode"
+                                Value="CompactOverlay" />
+                        <Setter Target="MySplitView.IsPaneOpen"
+                                Value="False" />
+                    </VisualState.Setters>
+                </VisualState>
+                <VisualState x:Name="Wide">
+                    <VisualState.StateTriggers>
+                        <AdaptiveTrigger MinWindowWidth="1024" />
+                    </VisualState.StateTriggers>
+                    <VisualState.Setters>
+                        <Setter Target="MySplitView.DisPlayMode"
+                                Value="CompactInline" />
+                        <Setter Target="MySplitView.IsPaneOpen"
+                                Value="True" />
+                    </VisualState.Setters>
+                </VisualState>
+            </VisualStateGroup>
+        </VisualStateManager.VisualStateGroups>
+
+        <SplitView x:Name="MySplitView"
+                   DisplayMode="Inline"
+                   IsPaneOpen="True" OpenPaneLength="200" PanePlacement="Left" >
+
+            <SplitView.Pane >
+                <StackPanel Background="Black">
+                    <RadioButton Tag="Main"
+                                 Click="radioBtn_PaneItem_Click"  Foreground="White" Width="200 ">
+                        <StackPanel Orientation="Horizontal" Margin="0,0,60,0">
+                            <Image x:Name="icon_Main" Source="/Assets/Icon/main_normal.svg" Height="50" Width="55" Margin="-5,0,0,0" />
+                            <TextBlock Text="Main" Margin="15,15,0,0" FontSize="18" />
+                        </StackPanel>
+                    </RadioButton>
+                    <RadioButton Tag="Dice"
+                                 Click="radioBtn_PaneItem_Click" Foreground="White" Width="250">
+                        <StackPanel Orientation="Horizontal" Margin="0,0,60,0">
+                            <Image x:Name="icon_Dice" Source="/Assets/Icon/dice_normal.svg" Height="50" Width="55" Margin="-5,0,0,0" />
+                            <TextBlock Text="Dice" Margin="15,15,0,0" FontSize="18"/>
+                        </StackPanel>
+                    </RadioButton>
+                    <RadioButton Tag="Drinks"
+                                 Click="radioBtn_PaneItem_Click" Foreground="White" Width="250">
+                        <StackPanel Orientation="Horizontal" Margin="0,0,60,0">
+                            <Image x:Name="icon_Drinks" Source="/Assets/Icon/drink_normal.svg" Height="50" Width="55" Margin="-5,0,0,0" />
+                            <TextBlock Text="Drinks" Margin="15,15,0,0"  FontSize="18"/>
+                        </StackPanel>
+                    </RadioButton>
+
+                    <RadioButton Tag="Lotto"
+                                 Click="radioBtn_PaneItem_Click" Foreground="White" Width="250">
+                        <StackPanel Orientation="Horizontal" Margin="0,0,60,0">
+                            <Image x:Name="icon_Lotto" Source="/Assets/Icon/lotto_normal.svg" Height="50" Width="55" Margin="-5,0,0,0" />
+                            <TextBlock Text="Lotto" Margin="15,15,0,0" FontSize="18" />
+                        </StackPanel>
+                    </RadioButton>
+
+                    <RadioButton Tag="Prediction"
+                                 Click="radioBtn_PaneItem_Click" Foreground="White" Width="250">
+                        <StackPanel Orientation="Horizontal" Margin="0,0,60,0">
+                            <Image x:Name="icon_Predic" Source="/Assets/Icon/predic_normal.svg" Height="50" Width="55" Margin="-5,0,0,0" />
+                            <TextBlock Text="Prediction" Margin="15,15,0,0" FontSize="18" />
+                        </StackPanel>
+                    </RadioButton>
+
+                    <RadioButton Tag="Slot"
+                                 Click="radioBtn_PaneItem_Click" Foreground="White" Width="250">
+                        <StackPanel Orientation="Horizontal" Margin="0,0,60,0">
+                            <Image x:Name="icon_Slot" Source="/Assets/Icon/slot_normal.svg" Height="50" Width="55" Margin="-5,0,0,0" />
+                            <TextBlock Text="Slot" Margin="15,15,0,0" FontSize="18" />
+                        </StackPanel>
+                    </RadioButton>
+
+                    <RadioButton Tag="Map"
+                                 Click="radioBtn_PaneItem_Click" Foreground="White" Width="250">
+                        <StackPanel Orientation="Horizontal" Margin="0,0,60,0">
+                            <SymbolIcon Symbol="Map" Height="50" Width="55" Margin="-5,0,0,0" />
+                            <TextBlock Text="Map" Margin="15,15,0,0" FontSize="18" />
+                        </StackPanel>
+                    </RadioButton>
+                    <ToggleSwitch x:Name="toggleBTN" Foreground="#FFFDFDFD" FontWeight="Normal" Toggled="toggleBTN_Toggled" OffContent="BGM ON" OnContent="BGM OFF"  FocusVisualPrimaryBrush="{x:Null}" VerticalAlignment="Stretch" Grid.Column="5" RenderTransformOrigin="0.5,0.5" FocusVisualSecondaryBrush="{x:Null}" HorizontalContentAlignment="Left" FlowDirection="LeftToRight" HorizontalAlignment="Center" Background="Black" Padding="20,0,0,0" FontSize="12" IsOn="True" >
+                        <ToggleSwitch.RenderTransform>
+                            <CompositeTransform ScaleX="1"/>
+                        </ToggleSwitch.RenderTransform>
+                    </ToggleSwitch>
+
+                </StackPanel>
+            </SplitView.Pane>
+            <Frame x:Name="MainFrame" >
+
+                <Grid>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="0.5*" />
+                        <ColumnDefinition Width="2*" />
+                        <ColumnDefinition Width="0.5*" />
+                        <ColumnDefinition Width="2*" />
+                        <ColumnDefinition Width="0.5*" />
+                        <ColumnDefinition Width="2*" />
+                        <ColumnDefinition Width="0.5*" />
+                    </Grid.ColumnDefinitions>
+
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="auto" />
+                        <RowDefinition Height="1*" />
+                        <RowDefinition Height="2*" />
+                        <RowDefinition Height="2*" />
+                        <RowDefinition Height="2*" />
+                        <RowDefinition Height="*" />
+                    </Grid.RowDefinitions>
+
+                    <Image x:Name="Logo_banner"
+                           Grid.Column="1" Grid.Row="2"  Grid.RowSpan="3" Grid.ColumnSpan="2"  >
+                        <Image.FocusVisualPrimaryBrush>
+                            <ImageBrush Opacity="0.6" ImageSource="/Assets/logoOut.png" Stretch="UniformToFill"/>
+                        </Image.FocusVisualPrimaryBrush>
+                    </Image>
+
+                    <Button Tag="Dice"
+                            Grid.Column="3"  Grid.Row="2" VerticalAlignment="Stretch" HorizontalAlignment="Stretch" DoubleTapped="btn_DoubleTapped">
+                        <Button.Background>
+                            <ImageBrush ImageSource="/Assets/bg_Dice.jpg" Opacity="0.65" Stretch="UniformToFill"/>
+                        </Button.Background>
+                    </Button>
+                    <Button Tag="Drinks"
+                            Grid.Column="5"  Grid.Row="2" VerticalAlignment="Stretch" HorizontalAlignment="Stretch" DoubleTapped="btn_DoubleTapped">
+                        <Button.Background>
+                            <ImageBrush Stretch="UniformToFill" ImageSource="/Assets/bg_Drinks.jpg" Opacity="0.65"/>
+                        </Button.Background>
+                    </Button>
+                    <Button Tag="Lotto"
+                            Grid.Column="3"  Grid.Row="3" VerticalAlignment="Stretch" HorizontalAlignment="Stretch" DoubleTapped="btn_DoubleTapped">
+                        <Button.Background>
+                            <ImageBrush Stretch="UniformToFill" ImageSource="/Assets/bg_Lotto.jpg" Opacity="0.65"/>
+                        </Button.Background>
+                    </Button>
+                    <Button Tag="Map"
+                            Grid.Column="5"  Grid.Row="3" VerticalAlignment="Stretch" HorizontalAlignment="Stretch" DoubleTapped="btn_DoubleTapped">
+                        <Button.Background>
+                            <ImageBrush Stretch="UniformToFill" ImageSource="/Assets/tauranga.jpg" Opacity="0.65"/>
+                        </Button.Background>
+                    </Button>
+                    <Button Tag="Prediction"
+                            Grid.Column="3"  Grid.Row="4" VerticalAlignment="Stretch" HorizontalAlignment="Stretch" DoubleTapped="btn_DoubleTapped">
+                        <Button.Background>
+                            <ImageBrush Stretch="UniformToFill" ImageSource="/Assets/bg_predic_1.jpg" Opacity="0.65"/>
+                        </Button.Background>
+                    </Button>
+                    <Button Tag="Slot"
+                            Grid.Column="5"  Grid.Row="4" VerticalAlignment="Stretch" HorizontalAlignment="Stretch" DoubleTapped="btn_DoubleTapped">
+                        <Button.Background>
+                            <ImageBrush Stretch="UniformToFill" ImageSource="/Assets/Slot/bg_slot5.jpg" Opacity="0.65"/>
+                        </Button.Background>
+                    </Button>
+
+                    
+
+                </Grid>
+            </Frame>
+
+        </SplitView>
+
+        <Button x:Name="btn_Hamburger"
+                Width="{Binding ElementName=MySplitView, Path=CompactPaneLength}"
+                VerticalAlignment="Top"
+                Click="btnHamburger_Click" Background="Black" FocusVisualPrimaryBrush="White">
+            <StackPanel>
+                <Rectangle Width="15"
+                           Height="2"
+                           Margin="2"
+                           Fill="White" FocusVisualPrimaryBrush="White" />
+                <Rectangle Width="15"
+                           Height="2"
+                           Margin="2"
+                           Fill="White" FocusVisualPrimaryBrush="White" />
+                <Rectangle Width="15"
+                           Height="2"
+                           Margin="2"
+                           Fill="White" FocusVisualPrimaryBrush="White" />
+            </StackPanel>
+        </Button>
+
+    </Grid>
+</Page>
