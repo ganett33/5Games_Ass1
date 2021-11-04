@@ -1,5 +1,5 @@
 # MiniGames
-a school project, it provides the basic 5 games concept and a little bit of code. <br/>After that create a [basic document](https://github.com/ganett33/5Games_Ass1/files/7470841/Document.pdf) for the Concept, Structure, Interaction and visual of the application.<br />
+a school project, it provides the basic 5 games concept and a little bit of code. <br/>After that create a [Rapid Application Design Process](https://github.com/ganett33/5Games_Ass1/files/7470841/Document.pdf) for the Concept, Structure, Interaction and visual of the application.<br />
 Lastly, create UWP application and did refactoring code.
 <br />
 |Tools| Visual Studio 2019| 
